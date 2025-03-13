@@ -1,17 +1,17 @@
 # 孙林林的个人主页
 
-[首页](#) | [简介](#简介) | [研究方向](#研究方向) | [代表性成果](#代表性成果) | [科研项目](#科研项目) | [荣誉奖励](#荣誉奖励) | [教育经历](education.md) | [工作经历](work_experience.md) | [科研活动经历](activities.md) | [其他信息](other_info.md) | [联系方式](#联系方式)
+[首页](#) | [研究方向](#研究方向) | [成果与项目](#成果与项目) | [更多](#更多)
 
----
+湘潭大学, 数学与计算科学学院, 副教授  
 
-## 简介
-湘潭大学, 数学与计算科学学院, 副教授
-
-## 研究方向
+##研究方向
 - 微分几何
-- 几何分析
+- 几何分析  
 
-## 代表性成果
+
+## 成果与项目
+
+### 代表性成果
 1. **J. Eur. Math. Soc. (JEMS)**  
    - Chen, Qun; Jost, Jürgen; **Sun, Linlin**; Zhu, Miaomiao  
      *Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem*  
@@ -42,8 +42,7 @@
 
 [查看更多成果](publications.md)
 
-
-## 科研项目
+### 科研项目
 - 国家自然科学基金委员会, 青年科学基金项目, 11801420, 狄拉克-调和映照及其相关问题, 2019-01-01至2021-12-31, 25万元, 结题, 主持
 
 [查看更多项目](projects.md)
@@ -51,6 +50,14 @@
 
 ## 荣誉奖励
 - 2020-01-01至2024-12-31, 湖北省“楚天学者计划”楚天学子
+
+
+## 更多
+- [教育经历](education.md)
+- [工作经历](work_experience.md)
+- [科研活动经历](activities.md)
+- [其他信息](other_info.md)
+- [联系方式](#联系方式)
 
 
 ## 联系方式
