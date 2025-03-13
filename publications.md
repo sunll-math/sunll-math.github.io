@@ -3,7 +3,7 @@
 ## 2025
 1. **Sci. China Math.**
    - Jost, Jürgen; **Sun, Linlin**; Zhu, Jingyong  
-     *Dirac-harmonic maps with the trivial index*
+     *Dirac-harmonic maps with the trivial index*  
      [Sci. China Math. 68 (2025), no. 4, 917-938.](https://doi.org/10.1007/s11425-023-2283-0)
 
 ## 2024
