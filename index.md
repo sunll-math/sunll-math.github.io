@@ -36,8 +36,7 @@ layout: home
 
 <details>
 <summary><strong>Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem</strong>   
- 
-<a href="https://doi.org/10.4171/JEMS/847">J. Eur. Math. Soc. (JEMS) 21 (2019), no. 3, 665–707.</a></summary>
+- <a href="https://doi.org/10.4171/JEMS/847">J. Eur. Math. Soc. (JEMS) 21 (2019), no. 3, 665–707.</a></summary>
 
 - <strong>作者</strong>: Chen, Qun; Jost, Jürgen; <strong>Sun, Linlin</strong>; Zhu, Miaomiao  
 - <strong>摘要</strong>: We develop estimates for the solutions and derive existence and uniqueness results of various local boundary value problems for Dirac equations that improve all relevant results known in the literature. With these estimates at hand, we derive a general existence, uniqueness and regularity theorem for solutions of Dirac equations with such boundary conditions. We also apply these estimates to a new nonlinear elliptic-parabolic problem, the Dirac-harmonic heat flow on Riemannian spin manifolds. This problem is motivated by the supersymmetric nonlinear σ-model and combines a harmonic heat flow type equation with a Dirac equation that depends nonlinearly on the flow.  
