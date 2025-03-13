@@ -36,6 +36,7 @@ layout: home
 
 <details>
 <summary><strong>Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem</strong>   
+ 
 - <a href="https://doi.org/10.4171/JEMS/847">J. Eur. Math. Soc. (JEMS) 21 (2019), no. 3, 665–707.</a></summary>
 
 - <strong>作者</strong>: Chen, Qun; Jost, Jürgen; <strong>Sun, Linlin</strong>; Zhu, Miaomiao  
