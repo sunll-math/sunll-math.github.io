@@ -75,9 +75,9 @@
 <details>
 <summary><strong>Optimal lower eigenvalue estimates for Hodge-Laplacian and applications</strong>  
 <a href="https://doi.org/10.1016/j.jde.2018.12.032">J. Differential Equations 266 (2019), no. 12, 8320–8343.</a></summary>
-
+M
 - <strong>作者</strong>: Cui, Qing; <strong>Sun, Linlin</strong>  
-- <strong>摘要</strong>: We consider the eigenvalue problem for Hodge-Laplacian on a Riemannian manifold $M$ isometrically immersed into another Riemannian manifold $\bar M$. We first assume the pull back Weitzenb\"{o}ck operator of $\bar M$ bounded from below, and obtain an extrinsic lower bound for the first eigenvalue of Hodge-Laplacian. As applications, we obtain some rigidity results. Second, when the pull back Weitzenb\"{o}ck operator of $\bar M$ bounded from both sides, we give a lower bound of the first eigenvalue by the Ricci curvature of $M$ and some extrinsic geometry. As a consequence, we prove a weak Ejiri type theorem, that is, if the Ricci curvature bounded from below pointwisely by a function of the norm square of the mean curvature vector, then $M$ is a homology sphere. In the end, we give an example to show that all the eigenvalue estimates are optimal when $\bar M$ is the space form.  
+- <strong>摘要</strong>: We consider the eigenvalue problem for Hodge-Laplacian on a Riemannian manifold M isometrically immersed into another Riemannian manifold $\bar M$. We first assume the pull back Weitzenb\"{o}ck operator of $\bar M$ bounded from below, and obtain an extrinsic lower bound for the first eigenvalue of Hodge-Laplacian. As applications, we obtain some rigidity results. Second, when the pull back Weitzenb\"{o}ck operator of $\bar M$ bounded from both sides, we give a lower bound of the first eigenvalue by the Ricci curvature of M and some extrinsic geometry. As a consequence, we prove a weak Ejiri type theorem, that is, if the Ricci curvature bounded from below pointwisely by a function of the norm square of the mean curvature vector, then M is a homology sphere. In the end, we give an example to show that all the eigenvalue estimates are optimal when $\bar M$ is the space form.  
 </details>
 
 [查看更多成果](publications.md)
