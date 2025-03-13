@@ -35,7 +35,7 @@ layout: home
 ### 代表性成果
 
 <details>
-<summary><strong>Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem</strong>    
+<summary><strong>Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem</strong>  
 <a href="https://doi.org/10.4171/JEMS/847">J. Eur. Math. Soc. (JEMS) 21 (2019), no. 3, 665–707.</a></summary>
 
 - <strong>作者</strong>: Chen, Qun; Jost, Jürgen; <strong>Sun, Linlin</strong>; Zhu, Miaomiao  
@@ -43,7 +43,7 @@ layout: home
 </details>
 
 <details>
-<summary><strong>Brouwer degree for Kazdan-Warner equations on a connected finite graph</strong>    
+<summary><strong>Brouwer degree for Kazdan-Warner equations on a connected finite graph</strong>  
 <a href="https://doi.org/10.1016/j.aim.2022.108422">Adv. Math. 404 (2022), part B, Paper No. 108422, 29 pp.</a></summary>
 
 - <strong>作者</strong>: <strong>Sun, Linlin</strong>; Wang, Liuquan  
@@ -51,7 +51,7 @@ layout: home
 </details>
 
 <details>
-<summary><strong>Rigidity theorems for minimal Lagrangian surfaces with Legendrian capillary boundary</strong>    
+<summary><strong>Rigidity theorems for minimal Lagrangian surfaces with Legendrian capillary boundary</strong>  
 <a href="https://doi.org/10.1016/j.aim.2021.108124">Adv. Math. 393 (2021), Paper No. 108124, 15 pp.</a></summary>
 
 - <strong>作者</strong>: Luo, Yong; <strong>Sun, Linlin</strong>  
@@ -59,7 +59,7 @@ layout: home
 </details>
 
 <details>
-<summary><strong>Rigidity of closed CSL submanifolds in the unit sphere</strong>    
+<summary><strong>Rigidity of closed CSL submanifolds in the unit sphere</strong>  
 <a href="https://doi.org/10.4171/aihpc/50">Ann. Inst. H. Poincaré C Anal. Non Linéaire 40 (2023), no. 3, 531–555.</a></summary>
 
 - <strong>作者</strong>: Luo, Yong; <strong>Sun, Linlin</strong>  
@@ -69,7 +69,7 @@ layout: home
 </details>
 
 <details>
-<summary><strong>Rigidity theorems of spacelike entire self-shrinking graphs in the pseudo-Euclidean space</strong>    
+<summary><strong>Rigidity theorems of spacelike entire self-shrinking graphs in the pseudo-Euclidean space</strong>  
 <a href="https://doi.org/10.1016/j.jfa.2021.109189">J. Funct. Anal. 281 (2021), no. 9, Paper No. 109189, 24 pp.</a></summary>
 
 - <strong>作者</strong>: Qiu, Hongbing; <strong>Sun, Linlin</strong>  
@@ -77,7 +77,7 @@ layout: home
 </details>
 
 <details>
-<summary><strong>Optimal lower eigenvalue estimates for Hodge-Laplacian and applications</strong>    
+<summary><strong>Optimal lower eigenvalue estimates for Hodge-Laplacian and applications</strong>  
 <a href="https://doi.org/10.1016/j.jde.2018.12.032">J. Differential Equations 266 (2019), no. 12, 8320–8343.</a></summary>
 M
 - <strong>作者</strong>: Cui, Qing; <strong>Sun, Linlin</strong>  
