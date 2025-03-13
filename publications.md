@@ -4,17 +4,17 @@
 1. **Calc. Var. Partial Differential Equations**  
    - Li, Jiayu; **Sun, Linlin**; Yang, Yunyan  
      *Topological degree for Chern-Simons Higgs models on finite graphs*  
-     Calc. Var. Partial Differential Equations 63 (2024), no. 4, Paper No. 81, 21 pp.  
+     [Calc. Var. Partial Differential Equations 63 (2024), no. 4, Paper No. 81, 21 pp.](https://doi.org/10.1007/s00526-024-02706-8)  
 
    - **Sun, Linlin**; Zhu, Jingyong  
      *An existence result for the Kazdan-Warner equation with a sign-changing prescribed function*  
-     Calc. Var. Partial Differential Equations 63 (2024), no. 2, Paper No. 52, 16 pp.  
+     [Calc. Var. Partial Differential Equations 63 (2024), no. 2, Paper No. 52, 16 pp.](https://doi.org/10.1007/s00526-023-02659-4)  
 
 ## 2023
 1. **Ann. Inst. H. Poincaré C Anal. Non Linéaire**  
    - Luo, Yong; **Sun, Linlin**  
      *Rigidity of closed CSL submanifolds in the unit sphere*  
-     Ann. Inst. H. Poincaré C Anal. Non Linéaire 40 (2023), no. 3, 531–555.  
+     [Ann. Inst. H. Poincaré C Anal. Non Linéaire 40 (2023), no. 3, 531–555.]()  
 
 2. **Front. Math.**  
    - Luo, Yong; **Sun, Linlin**; Yin, Jiabin  
