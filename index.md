@@ -63,7 +63,7 @@
 - <strong>作者</strong>: Luo, Yong; <strong>Sun, Linlin</strong>  
 - <strong>摘要</strong>: We are concerned with the rigidity of contact stationary Legendrian (CSL) submanifolds, critical points of the volume functional of Legendrian submanifolds in a Sasakian manifold, whose Euler-Lagrange equation is a third order elliptic PDE. We obtain several optimal rigidity theorems for closed CSL submanifolds in the unit sphere by utilizing the maximum principle together with Simons' identity. In particular, we proved that a closed CSL submanifold $M^{n}\subset\mathbb{S}^{2n+1}$ is a totally geodesic sphere or a Calabi 2-torus if  
   \[
-    \abs{\mathbf{B}}^2\leq\dfrac{4(n-1)}{n}+\dfrac{3n-2}{n^2}\abs{\mathbf{H}}^2,
+    |\mathbf{B}|^2\leq\dfrac{4(n-1)}{n}+\dfrac{3n-2}{n^2}|\mathbf{H}|^2,
   \]
   where $\mathbf{B}$ and $\mathbf{H}$ are the second fundamental form and the mean curvature vector. Moreover, an example shows that this assumption is optimal.  
 </details>
