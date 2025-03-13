@@ -14,54 +14,54 @@
 1. **Ann. Inst. H. Poincaré C Anal. Non Linéaire**  
    - Luo, Yong; **Sun, Linlin**  
      *Rigidity of closed CSL submanifolds in the unit sphere*  
-     [Ann. Inst. H. Poincaré C Anal. Non Linéaire 40 (2023), no. 3, 531–555.]()  
+     [Ann. Inst. H. Poincaré C Anal. Non Linéaire 40 (2023), no. 3, 531–555.](https://doi.org/10.4171/aihpc/50)  
 
 2. **Front. Math.**  
    - Luo, Yong; **Sun, Linlin**; Yin, Jiabin  
      *Complete self-similar hypersurfaces to the mean curvature flow with nonnegative constant scalar curvature*  
-     Front. Math. 18 (2023), no. 2, 417–430.  
+     [Front. Math. 18 (2023), no. 2, 417–430.](https://doi.org/10.1007/s11464-021-0229-x)  
 
 3. **Sci. China Math.**  
    - Li, Jiayu; **Sun, Linlin**; Yang, Yunyan  
      *The boundary value problem for the mean field equation on a compact Riemann surface*  
-     Sci. China Math. 66 (2023), no. 1, 115–142.  
+     [Sci. China Math. 66 (2023), no. 1, 115–142.](https://doi.org/10.1007/s11425-021-1962-5)  
 
 ## 2022
 1. **Adv. Math.**  
    - **Sun, Linlin**; Wang, Liuquan  
      *Brouwer degree for Kazdan-Warner equations on a connected finite graph*  
-     Adv. Math. 404 (2022), part B, Paper No. 108422, 29 pp.  
+     [Adv. Math. 404 (2022), part B, Paper No. 108422, 29 pp.](https://doi.org/10.1016/j.aim.2022.108422)  
 
 2. **Calc. Var. Partial Differential Equations**  
    - Luo, Yong; **Sun, Linlin**; Yin, Jiabin  
      *An optimal pinching theorem of minimal Legendrian submanifolds in the unit sphere*  
-     Calc. Var. Partial Differential Equations 61 (2022), no. 5, Paper No. 192, 18 pp.  
+     [Calc. Var. Partial Differential Equations 61 (2022), no. 5, Paper No. 192, 18 pp.](https://doi.org/10.1007/s00526-022-02304-6)  
 
 ## 2021
 1. **Adv. Math.**  
    - Luo, Yong; **Sun, Linlin**  
      *Rigidity theorems for minimal Lagrangian surfaces with Legendrian capillary boundary*  
-     Adv. Math. 393 (2021), Paper No. 108124, 15 pp.  
+     [Adv. Math. 393 (2021), Paper No. 108124, 15 pp.](https://doi.org/10.1016/j.aim.2021.108124)  
 
 2. **Calc. Var. Partial Differential Equations**  
    - **Sun, Linlin**; Zhu, Jingyong  
      *Global existence and convergence of a flow to Kazdan-Warner equation with non-negative prescribed function*  
-     Calc. Var. Partial Differential Equations 60 (2021), no. 1, Paper No. 42, 26 pp.  
+     [Calc. Var. Partial Differential Equations 60 (2021), no. 1, Paper No. 42, 26 pp.](https://doi.org/10.1007/s00526-020-01873-8)  
 
 3. **J. Funct. Anal.**  
    - Qiu, Hongbing; **Sun, Linlin**  
      *Rigidity theorems of spacelike entire self-shrinking graphs in the pseudo-Euclidean space*  
-     J. Funct. Anal. 281 (2021), no. 9, Paper No. 109189, 24 pp.  
+     [J. Funct. Anal. 281 (2021), no. 9, Paper No. 109189, 24 pp.](https://doi.org/10.1016/j.jfa.2021.109189)  
 
 4. **Manuscripta Math.**  
    - Cui, Qing; **Sun, Linlin**  
      *A note on rigidity of Einstein four-manifolds with positive sectional curvature*  
-     Manuscripta Math. 165 (2021), no. 1-2, 269–282.  
+     [Manuscripta Math. 165 (2021), no. 1-2, 269–282.](https://doi.org/10.1007/s00229-020-01217-y)  
 
 5. **Math. Z.**  
    - Chen, Qun; **Sun, Linlin**  
      *Extrinsic conformal lower bounds of eigenvalue for Dirac operator*  
-     Math. Z. 297 (2021), no. 3-4, 1659–1671.  
+     [Math. Z. 297 (2021), no. 3-4, 1659–1671.](https://doi.org/10.1007/s00209-020-02573-x)  
 
 ## 2020
 1. **Ann. Global Anal. Geom.**  
