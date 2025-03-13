@@ -35,7 +35,7 @@
 <a href="https://doi.org/10.4171/JEMS/847">J. Eur. Math. Soc. (JEMS) 21 (2019), no. 3, 665–707.</a></summary>
 
 - <strong>作者</strong>: Chen, Qun; Jost, Jürgen; <strong>Sun, Linlin</strong>; Zhu, Miaomiao  
-- <strong>摘要</strong>: We develop estimates for the solutions and derive existence and uniqueness results of various local boundary value problems for Dirac equations that improve all relevant results known in the literature. With these estimates at hand, we derive a general existence, uniqueness and regularity theorem for solutions of Dirac equations with such boundary conditions. We also apply these estimates to a new nonlinear elliptic-parabolic problem, the Dirac-harmonic heat flow on Riemannian spin manifolds. This problem is motivated by the supersymmetric nonlinear $\sigma$-model and combines a harmonic heat flow type equation with a Dirac equation that depends nonlinearly on the flow.  
+- <strong>摘要</strong>: We develop estimates for the solutions and derive existence and uniqueness results of various local boundary value problems for Dirac equations that improve all relevant results known in the literature. With these estimates at hand, we derive a general existence, uniqueness and regularity theorem for solutions of Dirac equations with such boundary conditions. We also apply these estimates to a new nonlinear elliptic-parabolic problem, the Dirac-harmonic heat flow on Riemannian spin manifolds. This problem is motivated by the supersymmetric nonlinear σ-model and combines a harmonic heat flow type equation with a Dirac equation that depends nonlinearly on the flow.  
 </details>
 
 <details>
@@ -51,7 +51,7 @@
 <a href="https://doi.org/10.1016/j.aim.2021.108124">Adv. Math. 393 (2021), Paper No. 108124, 15 pp.</a></summary>
 
 - <strong>作者</strong>: Luo, Yong; <strong>Sun, Linlin</strong>  
-- <strong>摘要</strong>: In this note, we study minimal Lagrangian surfaces in $\mathbb{B}^4$ with Legendrian capillary boundary on $\mathbb{S}^3$. On the one hand, we prove that any minimal Lagrangian surface in $\mathbb{B}^4$ with Legendrian free boundary on $\mathbb{S}^3$ must be an equatorial plane disk. On the other hand, we show that any annulus type minimal Lagrangian surface in $\mathbb{B}^4$ with Legendrian capillary boundary on $\mathbb{S}^3$ must be congruent to one of the Lagrangian catenoids. These results confirm the conjecture proposed by Li, Wang and Weng [M. Li, G. Wang, L. Weng, Sci. China Math. 64 (2021) 1589–1598].  
+- <strong>摘要</strong>: In this note, we study minimal Lagrangian surfaces in B^4 with Legendrian capillary boundary on S^3. On the one hand, we prove that any minimal Lagrangian surface in B^4 with Legendrian free boundary on S^3 must be an equatorial plane disk. On theother hand, we show that any annulus type minimal Lagrangian surface in B^4 with Legendrian capillary boundary on S3must be congruent to one of the Lagrangian catenoids. These results confirm the conjecture proposed by Li, Wang and Weng [M. Li, G. Wang, L. Weng, Sci. China Math. 64 (2021) 1589–1598].  
 </details>
 
 <details>
