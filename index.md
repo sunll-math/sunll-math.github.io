@@ -28,36 +28,61 @@
 
 ---
 
-## 成果与项目
+# 成果与项目
 
 ### 代表性成果
-1. **J. Eur. Math. Soc. (JEMS)**  
-   - Chen, Qun; Jost, Jürgen; **Sun, Linlin**; Zhu, Miaomiao  
-     *Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem*  
-     [J. Eur. Math. Soc. (JEMS) 21 (2019), no. 3, 665–707.](https://doi.org/10.4171/JEMS/847)  
 
-2. **Adv. Math.**  
-   - **Sun, Linlin**; Wang, Liuquan  
-     *Brouwer degree for Kazdan-Warner equations on a connected finite graph*  
-     [Adv. Math. 404 (2022), part B, Paper No. 108422, 29 pp.](https://doi.org/10.1016/j.aim.2022.108422)  
-   - Luo, Yong; **Sun, Linlin**  
-     *Rigidity theorems for minimal Lagrangian surfaces with Legendrian capillary boundary*  
-     [Adv. Math. 393 (2021), Paper No. 108124, 15 pp.](https://doi.org/10.1016/j.aim.2021.108124)  
+<details>
+<summary>**Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem**</summary>
 
-3. **Ann. Inst. H. Poincaré C Anal. Non Linéaire**  
-   - Luo, Yong; **Sun, Linlin**  
-     *Rigidity of closed CSL submanifolds in the unit sphere*  
-     [Ann. Inst. H. Poincaré C Anal. Non Linéaire 40 (2023), no. 3, 531–555.](https://doi.org/10.4171/aihpc/50)  
+- **作者**: Chen, Qun; Jost, Jürgen; **Sun, Linlin**; Zhu, Miaomiao  
+- **期刊**: [J. Eur. Math. Soc. (JEMS) 21 (2019), no. 3, 665–707.](https://doi.org/10.4171/JEMS/847)  
+- **摘要**: We develop estimates for the solutions and derive existence and uniqueness results of various local boundary value problems for Dirac equations that improve all relevant results known in the literature. With these estimates at hand, we derive a general existence, uniqueness and regularity theorem for solutions of Dirac equations with such boundary conditions. We also apply these estimates to a new nonlinear elliptic-parabolic problem, the Dirac-harmonic heat flow on Riemannian spin manifolds. This problem is motivated by the supersymmetric nonlinear $\sigma$-model and combines a harmonic heat flow type equation with a Dirac equation that depends nonlinearly on the flow.  
+</details>
 
-4. **J. Funct. Anal.**  
-   - Qiu, Hongbing; **Sun, Linlin**  
-     *Rigidity theorems of spacelike entire self-shrinking graphs in the pseudo-Euclidean space*  
-     [J. Funct. Anal. 281 (2021), no. 9, Paper No. 109189, 24 pp.](https://doi.org/10.1016/j.jfa.2021.109189)  
+<details>
+<summary>**Brouwer degree for Kazdan-Warner equations on a connected finite graph**</summary>
 
-5. **J. Differential Equations**  
-   - Cui, Qing; **Sun, Linlin**  
-     *Optimal lower eigenvalue estimates for Hodge-Laplacian and applications*  
-     [J. Differential Equations 266 (2019), no. 12, 8320–8343.](https://doi.org/10.1016/j.jde.2018.12.032)  
+- **作者**: **Sun, Linlin**; Wang, Liuquan  
+- **期刊**: [Adv. Math. 404 (2022), part B, Paper No. 108422, 29 pp.](https://doi.org/10.1016/j.aim.2022.108422)  
+- **摘要**: We study Kazdan-Warner equations on a connected finite graph via the method of the degree theory. Firstly, we prove that all solutions to the Kazdan-Warner equation with nonzero prescribed function are uniformly bounded and the Brouwer degree is well defined. Secondly, we compute the Brouwer degree case by case. As consequences, we give new proofs of some known existence results for the Kazdan-Warner equation on a connected finite graph.  
+</details>
+
+<details>
+<summary>**Rigidity theorems for minimal Lagrangian surfaces with Legendrian capillary boundary**</summary>
+
+- **作者**: Luo, Yong; **Sun, Linlin**  
+- **期刊**: [Adv. Math. 393 (2021), Paper No. 108124, 15 pp.](https://doi.org/10.1016/j.aim.2021.108124)  
+- **摘要**: In this note, we study minimal Lagrangian surfaces in $\mathbb{B}^4$ with Legendrian capillary boundary on $\mathbb{S}^3$. On the one hand, we prove that any minimal Lagrangian surface in $\mathbb{B}^4$ with Legendrian free boundary on $\mathbb{S}^3$ must be an equatorial plane disk. On the other hand, we show that any annulus type minimal Lagrangian surface in $\mathbb{B}^4$ with Legendrian capillary boundary on $\mathbb{S}^3$ must be congruent to one of the Lagrangian catenoids. These results confirm the conjecture proposed by Li, Wang and Weng [M. Li, G. Wang, L. Weng, Sci. China Math. 64 (2021) 1589–1598].  
+</details>
+
+<details>
+<summary>**Rigidity of closed CSL submanifolds in the unit sphere**</summary>
+
+- **作者**: Luo, Yong; **Sun, Linlin**  
+- **期刊**: [Ann. Inst. H. Poincaré C Anal. Non Linéaire 40 (2023), no. 3, 531–555.](https://doi.org/10.4171/aihpc/50)  
+- **摘要**: We are concerned with the rigidity of contact stationary Legendrian (CSL) submanifolds, critical points of the volume functional of Legendrian submanifolds in a Sasakian manifold, whose Euler-Lagrange equation is a third order elliptic PDE. We obtain several optimal rigidity theorems for closed CSL submanifolds in the unit sphere by utilizing the maximum principle together with Simons' identity. In particular, we proved that a closed CSL submanifold $M^{n}\subset\mathbb{S}^{2n+1}$ is a totally geodesic sphere or a Calabi 2-torus if  
+  \begin{align*}
+    \abs{\mathbf{B}}^2\leq\dfrac{4(n-1)}{n}+\dfrac{3n-2}{n^2}\abs{\mathbf{H}}^2,
+  \end{align*}
+  where $\mathbf{B}$ and $\mathbf{H}$ are the second fundamental form and the mean curvature vector. Moreover, an example shows that this assumption is optimal.  
+</details>
+
+<details>
+<summary>**Rigidity theorems of spacelike entire self-shrinking graphs in the pseudo-Euclidean space**</summary>
+
+- **作者**: Qiu, Hongbing; **Sun, Linlin**  
+- **期刊**: [J. Funct. Anal. 281 (2021), no. 9, Paper No. 109189, 24 pp.](https://doi.org/10.1016/j.jfa.2021.109189)  
+- **摘要**: In this paper, we firstly establish a new volume growth estimate for spacelike entire graphs in the pseudo-Euclidean space $\mathbb{R}^{m+n}_n$. Then by using this volume growth estimate and the Co-Area formula, we prove various rigidity results for spacelike entire self-shrinking graphs.  
+</details>
+
+<details>
+<summary>**Optimal lower eigenvalue estimates for Hodge-Laplacian and applications**</summary>
+
+- **作者**: Cui, Qing; **Sun, Linlin**  
+- **期刊**: [J. Differential Equations 266 (2019), no. 12, 8320–8343.](https://doi.org/10.1016/j.jde.2018.12.032)  
+- **摘要**: We consider the eigenvalue problem for Hodge-Laplacian on a Riemannian manifold $M$ isometrically immersed into another Riemannian manifold $\bar M$. We first assume the pull back Weitzenb\"{o}ck operator of $\bar M$ bounded from below, and obtain an extrinsic lower bound for the first eigenvalue of Hodge-Laplacian. As applications, we obtain some rigidity results. Second, when the pull back Weitzenb\"{o}ck operator of $\bar M$ bounded from both sides, we give a lower bound of the first eigenvalue by the Ricci curvature of $M$ and some extrinsic geometry. As a consequence, we prove a weak Ejiri type theorem, that is, if the Ricci curvature bounded from below pointwisely by a function of the norm square of the mean curvature vector, then $M$ is a homology sphere. In the end, we give an example to show that all the eigenvalue estimates are optimal when $\bar M$ is the space form.  
+</details>
 
 [查看更多成果](publications.md)
 
