@@ -121,13 +121,13 @@
 1. **Calc. Var. Partial Differential Equations**  
    - Chen, Qun; Jost, Jürgen; **Sun, Linlin**; Zhu, Miaomiao  
      *Dirac-geodesics and their heat flows*  
-     Calc. Var. Partial Differential Equations 54 (2015), no. 3, 2615–2635.  
+     [Calc. Var. Partial Differential Equations 54 (2015), no. 3, 2615–2635.](https://doi.org/10.1007/s00526-015-0877-3)  
 
 ## 2014
 1. **J. Geom. Phys.**  
    - Chen, Qun; Jost, Jürgen; **Sun, Linlin**  
      *Gradient estimates and Liouville theorems for Dirac-harmonic maps*  
-     J. Geom. Phys. 76 (2014), 66–78.  
+     [J. Geom. Phys. 76 (2014), 66–78.](http://dx.doi.org/10.1016/j.geomphys.2013.10.011)  
 
 ---
 
