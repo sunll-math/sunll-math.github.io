@@ -1,6 +1,5 @@
 ---
 layout: home
-title: 孙林林 - 个人主页
 ---
 
 
