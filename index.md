@@ -35,22 +35,23 @@ layout: home
 ### 代表性成果
 
 <details>
-<summary><strong>Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem</strong>&nbsp; <a href="https://doi.org/10.4171/JEMS/847">J. Eur. Math. Soc. (JEMS) 21 (2019), no. 3, 665–707.</a></summary>
+<summary><strong>Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem</strong> &nbsp; 
+ <a href="https://doi.org/10.4171/JEMS/847">J. Eur. Math. Soc. (JEMS) 21 (2019), no. 3, 665–707.</a></summary>
 
 - <strong>作者</strong>: Chen, Qun; Jost, Jürgen; <strong>Sun, Linlin</strong>; Zhu, Miaomiao  
 - <strong>摘要</strong>: We develop estimates for the solutions and derive existence and uniqueness results of various local boundary value problems for Dirac equations that improve all relevant results known in the literature. With these estimates at hand, we derive a general existence, uniqueness and regularity theorem for solutions of Dirac equations with such boundary conditions. We also apply these estimates to a new nonlinear elliptic-parabolic problem, the Dirac-harmonic heat flow on Riemannian spin manifolds. This problem is motivated by the supersymmetric nonlinear σ-model and combines a harmonic heat flow type equation with a Dirac equation that depends nonlinearly on the flow.  
 </details>
 
 <details>
-<summary><strong>Brouwer degree for Kazdan-Warner equations on a connected finite graph</strong>  
-<a href="https://doi.org/10.1016/j.aim.2022.108422">Adv. Math. 404 (2022), part B, Paper No. 108422, 29 pp.</a></summary>
+<summary><strong>Brouwer degree for Kazdan-Warner equations on a connected finite graph</strong> &nbsp; 
+ <a href="https://doi.org/10.1016/j.aim.2022.108422">Adv. Math. 404 (2022), part B, Paper No. 108422, 29 pp.</a></summary>
 
 - <strong>作者</strong>: <strong>Sun, Linlin</strong>; Wang, Liuquan  
 - <strong>摘要</strong>: We study Kazdan-Warner equations on a connected finite graph via the method of the degree theory. Firstly, we prove that all solutions to the Kazdan-Warner equation with nonzero prescribed function are uniformly bounded and the Brouwer degree is well defined. Secondly, we compute the Brouwer degree case by case. As consequences, we give new proofs of some known existence results for the Kazdan-Warner equation on a connected finite graph.  
 </details>
 
 <details>
-<summary><strong>Rigidity theorems for minimal Lagrangian surfaces with Legendrian capillary boundary</strong>  
+<summary><strong>Rigidity theorems for minimal Lagrangian surfaces with Legendrian capillary boundary</strong> &nbsp;  
 <a href="https://doi.org/10.1016/j.aim.2021.108124">Adv. Math. 393 (2021), Paper No. 108124, 15 pp.</a></summary>
 
 - <strong>作者</strong>: Luo, Yong; <strong>Sun, Linlin</strong>  
@@ -58,7 +59,7 @@ layout: home
 </details>
 
 <details>
-<summary><strong>Rigidity of closed CSL submanifolds in the unit sphere</strong>  
+<summary><strong>Rigidity of closed CSL submanifolds in the unit sphere</strong> &nbsp; 
 <a href="https://doi.org/10.4171/aihpc/50">Ann. Inst. H. Poincaré C Anal. Non Linéaire 40 (2023), no. 3, 531–555.</a></summary>
 
 - <strong>作者</strong>: Luo, Yong; <strong>Sun, Linlin</strong>  
@@ -68,7 +69,7 @@ layout: home
 </details>
 
 <details>
-<summary><strong>Rigidity theorems of spacelike entire self-shrinking graphs in the pseudo-Euclidean space</strong>  
+<summary><strong>Rigidity theorems of spacelike entire self-shrinking graphs in the pseudo-Euclidean space</strong> &nbsp; 
 <a href="https://doi.org/10.1016/j.jfa.2021.109189">J. Funct. Anal. 281 (2021), no. 9, Paper No. 109189, 24 pp.</a></summary>
 
 - <strong>作者</strong>: Qiu, Hongbing; <strong>Sun, Linlin</strong>  
@@ -76,7 +77,7 @@ layout: home
 </details>
 
 <details>
-<summary><strong>Optimal lower eigenvalue estimates for Hodge-Laplacian and applications</strong>  
+<summary><strong>Optimal lower eigenvalue estimates for Hodge-Laplacian and applications</strong> &nbsp; 
 <a href="https://doi.org/10.1016/j.jde.2018.12.032">J. Differential Equations 266 (2019), no. 12, 8320–8343.</a></summary>
 M
 - <strong>作者</strong>: Cui, Qing; <strong>Sun, Linlin</strong>  
