@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 孙林林 - 个人主页
-mathjax: true
 ---
 
 
