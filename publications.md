@@ -98,24 +98,24 @@
 4. **J. Eur. Math. Soc. (JEMS)**  
    - Chen, Qun; Jost, Jürgen; **Sun, Linlin**; Zhu, Miaomiao  
      *Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem*  
-     J. Eur. Math. Soc. (JEMS) 21 (2019), no. 3, 665–707.  
+     [J. Eur. Math. Soc. (JEMS) 21 (2019), no. 3, 665–707.]()  
 
 ## 2018
 1. **Manuscripta Math.**  
    - **Sun, Linlin**  
      *A note on the uncoupled Dirac-harmonic maps from Kähler spin manifolds to Kähler manifolds*  
-     Manuscripta Math. 155 (2018), no. 1-2, 197–208.  
+     [Manuscripta Math. 155 (2018), no. 1-2, 197–208.](https://doi.org/10.1007/s00229-017-0941-8)  
 
 2. **Proc. Amer. Math. Soc.**  
    - Cui, Qing; **Sun, Linlin**  
      *On the volume of locally conformally flat 4-dimensional closed hypersurface*  
-     Proc. Amer. Math. Soc. 146 (2018), no. 2, 759–771.  
+     [Proc. Amer. Math. Soc. 146 (2018), no. 2, 759–771.](https://doi.org/10.1090/proc/13855)  
 
 ## 2016
 1. **Calc. Var. Partial Differential Equations**  
    - Li, Jiayu; **Sun, Linlin**  
      *A note on the nonexistence of quasi-harmonic spheres*  
-     Calc. Var. Partial Differential Equations 55 (2016), no. 6, Art. 151, 13 pp.  
+     [Calc. Var. Partial Differential Equations 55 (2016), no. 6, Art. 151, 13 pp.](https://doi.org/10.1007/s00526-016-1076-6)  
 
 ## 2015
 1. **Calc. Var. Partial Differential Equations**  
