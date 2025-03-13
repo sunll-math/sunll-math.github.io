@@ -67,38 +67,38 @@
 1. **Ann. Global Anal. Geom.**  
    - Luo, Yong; **Sun, Linlin**  
      *Complete Willmore Legendrian surfaces in S5 are minimal Legendrian surfaces*  
-     Ann. Global Anal. Geom. 58 (2020), no. 2, 177–189.  
+     [Ann. Global Anal. Geom. 58 (2020), no. 2, 177–189.](https://doi.org/10.1007/s10455-020-09719-4)  
 
 2. **Calc. Var. Partial Differential Equations**  
    - Sun, Jun; **Sun, Linlin**  
      *Sphere theorems for Lagrangian and Legendrian submanifolds*  
-     Calc. Var. Partial Differential Equations 59 (2020), no. 4, Paper No. 125, 29 pp.  
+     [Calc. Var. Partial Differential Equations 59 (2020), no. 4, Paper No. 125, 29 pp.](https://doi.org/10.1007/s00526-020-01797-3)  
 
 3. **Math. Res. Lett.**  
    - Sun, Jun; **Sun, Linlin**  
      *Sphere theorems for submanifolds in Kähler manifold*  
-     Math. Res. Lett. 27 (2020), no. 4, 1195–1236.  
+     [Math. Res. Lett. 27 (2020), no. 4, 1195–1236.](https://dx.doi.org/10.4310/MRL.2020.v27.n4.a10)  
 
 ## 2019
 1. **Asian J. Math.**  
    - Chen, Qun; Jost, Jürgen; **Sun, Linlin**; Zhu, Miaomiao  
      *Dirac-harmonic maps between Riemann surfaces*  
-     Asian J. Math. 23 (2019), no. 1, 107–125.  
+     [Asian J. Math. 23 (2019), no. 1, 107–125.](https://dx.doi.org/10.4310/AJM.2019.v23.n1.a6)  
 
 2. **Calc. Var. Partial Differential Equations**  
    - Cui, Qing; **Sun, Linlin**  
      *Some differentiable sphere theorems*  
-     Calc. Var. Partial Differential Equations 58 (2019), no. 2, Paper No. 43, 24 pp.  
+     [Calc. Var. Partial Differential Equations 58 (2019), no. 2, Paper No. 43, 24 pp.](https://doi.org/10.1007/s00526-019-1487-2)  
 
 3. **J. Differential Equations**  
    - Cui, Qing; **Sun, Linlin**  
      *Optimal lower eigenvalue estimates for Hodge-Laplacian and applications*  
-     J. Differential Equations 266 (2019), no. 12, 8320–8343.  
+     [J. Differential Equations 266 (2019), no. 12, 8320–8343.](https://doi.org/10.1016/j.jde.2018.12.032)  
 
 4. **J. Eur. Math. Soc. (JEMS)**  
    - Chen, Qun; Jost, Jürgen; **Sun, Linlin**; Zhu, Miaomiao  
      *Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem*  
-     [J. Eur. Math. Soc. (JEMS) 21 (2019), no. 3, 665–707.]()  
+     [J. Eur. Math. Soc. (JEMS) 21 (2019), no. 3, 665–707.](https://doi.org/10.4171/JEMS/847)  
 
 ## 2018
 1. **Manuscripta Math.**  
