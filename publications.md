@@ -1,5 +1,11 @@
 # 科研学术成果
 
+## 2025
+1. **Sci. China Math.**
+   - Jost, Jürgen; **Sun, Linlin**; Zhu, Jingyong
+     *Dirac-harmonic maps with the trivial index*
+     [Sci. China Math. 68 (2025), no. 4, 917-938.](https://doi.org/10.1007/s11425-023-2283-0)
+
 ## 2024
 1. **Calc. Var. Partial Differential Equations**  
    - Li, Jiayu; **Sun, Linlin**; Yang, Yunyan  
@@ -8,7 +14,7 @@
 
    - **Sun, Linlin**; Zhu, Jingyong  
      *An existence result for the Kazdan-Warner equation with a sign-changing prescribed function*  
-     [Calc. Var. Partial Differential Equations 63 (2024), no. 2, Paper No. 52, 16 pp.](https://doi.org/10.1007/s00526-023-02659-4)  
+     [Calc. Var. Partial Differential Equations 63 (2024), no. 2, Paper No. 52, 16 pp.](https://doi.org/10.1007/s00526-023-02659-4)
 
 ## 2023
 1. **Ann. Inst. H. Poincaré C Anal. Non Linéaire**  
