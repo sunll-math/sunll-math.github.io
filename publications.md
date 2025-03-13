@@ -1,4 +1,4 @@
-# 科研学术成果
+# 已发表学术成果
 
 ## 2025
 <details>
@@ -188,6 +188,6 @@
 
 ---
 
-# [arXiv](https://arxiv.org/a/sun_l_3.html)
+# [arXiv预印本](https://arxiv.org/a/sun_l_3.html)
 
 [返回首页](index.md)
