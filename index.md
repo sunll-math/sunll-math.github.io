@@ -60,7 +60,7 @@ layout: home
 
 <details>
 <summary><strong>Rigidity of closed CSL submanifolds in the unit sphere</strong> &nbsp; 
-<a href="https://doi.org/10.4171/aihpc/50">Ann. Inst. H. Poincaré C Anal. Non Linéaire 2023</a></summary>
+<a href="https://doi.org/10.4171/aihpc/50">Ann. Inst. H. Poincaré C Anal. Non Linéaire, 2023</a></summary>
 
 - <strong>作者</strong>: Luo, Yong; <strong>Sun, Linlin</strong>  
 - <strong>摘要</strong>: We are concerned with the rigidity of contact stationary Legendrian (CSL) submanifolds, critical points of the volume functional of Legendrian submanifolds in a Sasakian manifold, whose Euler-Lagrange equation is a third order elliptic PDE. We obtain several optimal rigidity theorems for closed CSL submanifolds in the unit sphere by utilizing the maximum principle together with Simons' identity. In particular, we proved that a closed CSL submanifold $M^{n}\subset\mathbb{S}^{2n+1}$ is a totally geodesic sphere or a Calabi 2-torus if  
