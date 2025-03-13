@@ -1,5 +1,9 @@
 title: 孙林林 - 个人主页
 description: 欢迎访问孙林林的学术主页
+theme: minima
+
+footer:
+  copyright: "© 2025 孙林林. 保留所有权利。"
 
 include:
   - footer.html
