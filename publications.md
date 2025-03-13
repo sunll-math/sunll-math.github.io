@@ -188,6 +188,7 @@
 
 ---
 
-# [arXiv预印本](https://arxiv.org/a/sun_l_3.html)
+# 预印本
+- [arXiv预印本](https://arxiv.org/a/sun_l_3.html)
 
 [返回首页](index.md)
