@@ -5,190 +5,51 @@ title: 科研成果
 ## 已发表文章
 
 ### 2025
-<details>
-<summary>Dirac-harmonic maps with the trivial index</summary>
-
-Jost, Jürgen; <strong>Sun, Linlin</strong>; Zhu, Jingyong<br>
-<a href="https://doi.org/10.1007/s11425-023-2283-0">Sci. China Math. 68 (2025), no. 4, 917-938.</a>
-</details>
+- Dirac-harmonic maps with the trivial index (with Jürgen Jost, Jingyong Zhu), [Sci. China Math., 2025](https://doi.org/10.1007/s11425-023-2283-0)
 
 ### 2024
-<details>
-<summary>An existence result for the Kazdan-Warner equation with a sign-changing prescribed function</summary>
-
-<strong>Sun, Linlin</strong>; Zhu, Jingyong<br>
-<a href="https://doi.org/10.1007/s00526-023-02659-4">Calc. Var. Partial Differential Equations 63 (2024), no. 2, Paper No. 52, 16 pp.</a>
-</details>
-
-<details>
-<summary>Topological degree for Chern-Simons Higgs models on finite graphs</summary>
-
-Li, Jiayu; <strong>Sun, Linlin</strong>; Yang, Yunyan<br>
-<a href="https://doi.org/10.1007/s00526-024-02706-8">Calc. Var. Partial Differential Equations 63 (2024), no. 4, Paper No. 81, 21 pp.</a>  
-</details>
+- An existence result for the Kazdan-Warner equation with a sign-changing prescribed function (with Jingyong Zhu), [Calc. Var. Partial Differential Equations, 2024](https://doi.org/10.1007/s00526-023-02659-4)
+- Topological degree for Chern-Simons Higgs models on finite graphs (with Jiayu Li, Yunyan Yang), [Calc. Var. Partial Differential Equations, 2024](https://doi.org/10.1007/s00526-024-02706-8)
 
 ### 2023
-<details>
-<summary>Complete self-similar hypersurfaces to the mean curvature flow with nonnegative constant scalar curvature</summary>
-
-Luo, Yong; <strong>Sun, Linlin</strong>; Yin, Jiabin<br>
-<a href="https://doi.org/10.1007/s11464-021-0229-x">Front. Math. 18 (2023), no. 2, 417–430.</a>  
-</details>
-
-<details>
-<summary>Rigidity of closed CSL submanifolds in the unit sphere</summary>
-
-Luo, Yong; <strong>Sun, Linlin</strong><br>
-<a href="https://doi.org/10.4171/aihpc/50">Ann. Inst. H. Poincaré C Anal. Non Linéaire 40 (2023), no. 3, 531–555.</a>  
-</details>
-
-<details>
-<summary>The boundary value problem for the mean field equation on a compact Riemann surface</summary>
-
-Li, Jiayu; <strong>Sun, Linlin</strong>; Yang, Yunyan<br>
-<a href="https://doi.org/10.1007/s11425-021-1962-5">Sci. China Math. 66 (2023), no. 1, 115–142.</a>  
-</details>
+- Complete self-similar hypersurfaces to the mean curvature flow with nonnegative constant scalar curvature (with Yong Luo, Jiabin Yin), [Front. Math., 2023](https://doi.org/10.1007/s11464-021-0229-x)
+- Rigidity of closed CSL submanifolds in the unit sphere (with Yong Luo), [Ann. Inst. H. Poincaré C Anal. Non Linéaire, 2023](https://doi.org/10.4171/aihpc/50)
+- The boundary value problem for the mean field equation on a compact Riemann surface (with Jiayu Li, Yunyan Yang), [Sci. China Math., 2023](https://doi.org/10.1007/s11425-021-1962-5)
 
 ### 2022
-<details>
-<summary>An optimal pinching theorem of minimal Legendrian submanifolds in the unit sphere</summary>
-
-Luo, Yong; <strong>Sun, Linlin</strong>; Yin, Jiabin<br>
-<a href="https://doi.org/10.1007/s00526-022-02304-6">Calc. Var. Partial Differential Equations 61 (2022), no. 5, Paper No. 192, 18 pp.</a>  
-</details>
-
-<details>
-<summary>Brouwer degree for Kazdan-Warner equations on a connected finite graph</summary>
-
-<strong>Sun, Linlin</strong>; Wang, Liuquan<br>
-<a href="https://doi.org/10.1016/j.aim.2022.108422">Adv. Math. 404 (2022), part B, Paper No. 108422, 29 pp.</a>  
-</details>
+- An optimal pinching theorem of minimal Legendrian submanifolds in the unit sphere (with Yong Luo, Jiabin Yin), [Calc. Var. Partial Differential Equations, 2022](https://doi.org/10.1007/s00526-022-02304-6)
+- Brouwer degree for Kazdan-Warner equations on a connected finite graph (with Liuquan Wang), [Adv. Math., 2022](https://doi.org/10.1016/j.aim.2022.108422)
 
 ### 2021
-<details>
-<summary>A note on rigidity of Einstein four-manifolds with positive sectional curvature</summary>
-
-Cui, Qing; <strong>Sun, Linlin</strong><br>
-<a href="https://doi.org/10.1007/s00229-020-01217-y">Manuscripta Math. 165 (2021), no. 1-2, 269–282.</a>  
-</details>
-
-<details>
-<summary>Extrinsic conformal lower bounds of eigenvalue for Dirac operator</summary>
-
-Chen, Qun; <strong>Sun, Linlin</strong><br>
-<a href="https://doi.org/10.1007/s00209-020-02573-x">Math. Z. 297 (2021), no. 3-4, 1659–1671.</a>  
-</details>
-
-<details>
-<summary>Global existence and convergence of a flow to Kazdan-Warner equation with non-negative prescribed function</summary>
-
-<strong>Sun, Linlin</strong>; Zhu, Jingyong<br>
-<a href="https://doi.org/10.1007/s00526-020-01873-8">Calc. Var. Partial Differential Equations 60 (2021), no. 1, Paper No. 42, 26 pp.</a>  
-</details>
-
-<details>
-<summary>Rigidity theorems for minimal Lagrangian surfaces with Legendrian capillary boundary</summary>
-
-Luo, Yong; <strong>Sun, Linlin</strong><br>
-<a href="https://doi.org/10.1016/j.aim.2021.108124">Adv. Math. 393 (2021), Paper No. 108124, 15 pp.</a>  
-</details>
-
-<details>
-<summary>Rigidity theorems of spacelike entire self-shrinking graphs in the pseudo-Euclidean space</summary>
-
-Qiu, Hongbing; <strong>Sun, Linlin</strong><br>
-<a href="https://doi.org/10.1016/j.jfa.2021.109189">J. Funct. Anal. 281 (2021), no. 9, Paper No. 109189, 24 pp.</a>  
-</details>
+- A note on rigidity of Einstein four-manifolds with positive sectional curvature (with Qing Cui), [Manuscripta Math., 2021](https://doi.org/10.1007/s00229-020-01217-y)
+- Extrinsic conformal lower bounds of eigenvalue for Dirac operator (with Qun Chen), [Math. Z., 2021](https://doi.org/10.1007/s00209-020-02573-x)
+- Global existence and convergence of a flow to Kazdan-Warner equation with non-negative prescribed function (with Jingyong Zhu), [Calc. Var. Partial Differential Equations, 2021](https://doi.org/10.1007/s00526-020-01873-8)
+- Rigidity theorems for minimal Lagrangian surfaces with Legendrian capillary boundary (with Yong Luo), [Adv. Math., 2021](https://doi.org/10.1016/j.aim.2021.108124)
+- Rigidity theorems of spacelike entire self-shrinking graphs in the pseudo-Euclidean space (with Hongbing Qiu), [J. Funct. Anal., 2021](https://doi.org/10.1016/j.jfa.2021.109189)
 
 ### 2020
-<details>
-<summary>Complete Willmore Legendrian surfaces in S5 are minimal Legendrian surfaces</summary>
-
-Luo, Yong; <strong>Sun, Linlin</strong><br>
-<a href="https://doi.org/10.1007/s10455-020-09719-4">Ann. Global Anal. Geom. 58 (2020), no. 2, 177–189.</a>  
-</details>
-
-<details>
-<summary>Sphere theorems for Lagrangian and Legendrian submanifolds</summary>
-
-Sun, Jun; <strong>Sun, Linlin</strong><br>
-<a href="https://doi.org/10.1007/s00526-020-01797-3">Calc. Var. Partial Differential Equations 59 (2020), no. 4, Paper No. 125, 29 pp.</a>  
-</details>
-
-<details>
-<summary>Sphere theorems for submanifolds in Kähler manifold</summary>
-
-Sun, Jun; <strong>Sun, Linlin</strong><br>
-<a href="https://dx.doi.org/10.4310/MRL.2020.v27.n4.a10">Math. Res. Lett. 27 (2020), no. 4, 1195–1236.</a>  
-</details>
+- Complete Willmore Legendrian surfaces in S5 are minimal Legendrian surfaces (with Yong Luo), [Ann. Global Anal. Geom., 2020](https://doi.org/10.1007/s10455-020-09719-4)
+- Sphere theorems for Lagrangian and Legendrian submanifolds (with Jun Sun), [Calc. Var. Partial Differential Equations, 2020](https://doi.org/10.1007/s00526-020-01797-3)
+- Sphere theorems for submanifolds in Kähler manifold (with Jun Sun), [Math. Res. Lett., 2020](https://dx.doi.org/10.4310/MRL.2020.v27.n4.a10)
 
 ### 2019
-<details>
-<summary>Dirac-harmonic maps between Riemann surfaces</summary>
-
-Chen, Qun; Jost, Jürgen; <strong>Sun, Linlin</strong>; Zhu, Miaomiao<br>
-<a href="https://dx.doi.org/10.4310/AJM.2019.v23.n1.a6">Asian J. Math. 23 (2019), no. 1, 107–125.</a>  
-</details>
-
-<details>
-<summary>Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem</summary>
-
-Chen, Qun; Jost, Jürgen; <strong>Sun, Linlin</strong>; Zhu, Miaomiao<br>
-<a href="https://doi.org/10.4171/JEMS/847">J. Eur. Math. Soc. (JEMS) 21 (2019), no. 3, 665–707.</a>  
-</details>
-
-<details>
-<summary>Optimal lower eigenvalue estimates for Hodge-Laplacian and applications</summary>
-
-Cui, Qing; <strong>Sun, Linlin</strong><br>
-<a href="https://doi.org/10.1016/j.jde.2018.12.032">J. Differential Equations 266 (2019), no. 12, 8320–8343.</a>  
-</details>
-
-<details>
-<summary>Some differentiable sphere theorems</summary>
-
-Cui, Qing; <strong>Sun, Linlin</strong><br>
-<a href="https://doi.org/10.1007/s00526-019-1487-2">Calc. Var. Partial Differential Equations 58 (2019), no. 2, Paper No. 43, 24 pp.</a>  
-</details>
+- Dirac-harmonic maps between Riemann surfaces (with Qun Chen, Jürgen Jost, Miaomiao Zhu), [Asian J. Math., 2019](https://dx.doi.org/10.4310/AJM.2019.v23.n1.a6)
+- Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem (with Qun Chen, Jürgen Jost, Miaomiao Zhu), [J. Eur. Math. Soc. (JEMS), 2019](https://doi.org/10.4171/JEMS/847)
+- Optimal lower eigenvalue estimates for Hodge-Laplacian and applications (with Qing Cui), [J. Differential Equations, 2019](https://doi.org/10.1016/j.jde.2018.12.032)
+- Some differentiable sphere theorems (with Qing Cui), [Calc. Var. Partial Differential Equations, 2019](https://doi.org/10.1007/s00526-019-1487-2)
 
 ### 2018
-<details>
-<summary>A note on the uncoupled Dirac-harmonic maps from Kähler spin manifolds to Kähler manifolds</summary>
-
-<strong>Sun, Linlin</strong><br>
-<a href="https://doi.org/10.1007/s00229-017-0941-8">Manuscripta Math. 155 (2018), no. 1-2, 197–208.</a>  
-</details>
-
-<details>
-<summary>On the volume of locally conformally flat 4-dimensional closed hypersurface</summary>
-
-Cui, Qing; <strong>Sun, Linlin</strong><br>
-<a href="https://doi.org/10.1090/proc/13855">Proc. Amer. Math. Soc. 146 (2018), no. 2, 759–771.</a>  
-</details>
+- A note on the uncoupled Dirac-harmonic maps from Kähler spin manifolds to Kähler manifolds, [Manuscripta Math., 2018](https://doi.org/10.1007/s00229-017-0941-8)
+- On the volume of locally conformally flat 4-dimensional closed hypersurface (with Qing Cui), [Proc. Amer. Math. Soc., 2018](https://doi.org/10.1090/proc/13855)
 
 ### 2016
-<details>
-<summary>A note on the nonexistence of quasi-harmonic spheres</summary>
-
-Li, Jiayu; <strong>Sun, Linlin</strong><br>
-<a href="https://doi.org/10.1007/s00526-016-1076-6">Calc. Var. Partial Differential Equations 55 (2016), no. 6, Art. 151, 13 pp.</a>  
-</details>
+- A note on the nonexistence of quasi-harmonic spheres (with Jiayu Li), [Calc. Var. Partial Differential Equations, 2016](https://doi.org/10.1007/s00526-016-1076-6)
 
 ### 2015
-<details>
-<summary>Dirac-geodesics and their heat flows</summary>
-
-Chen, Qun; Jost, Jürgen; <strong>Sun, Linlin</strong>; Zhu, Miaomiao<br>
-<a href="https://doi.org/10.1007/s00526-015-0877-3">Calc. Var. Partial Differential Equations 54 (2015), no. 3, 2615–2635.</a>  
-</details>
+- Dirac-geodesics and their heat flows (with Qun Chen, Jürgen Jost, Miaomiao Zhu), [Calc. Var. Partial Differential Equations, 2015](https://doi.org/10.1007/s00526-015-0877-3)
 
 ### 2014
-<details>
-<summary>Gradient estimates and Liouville theorems for Dirac-harmonic maps</summary>
-
-Chen, Qun; Jost, Jürgen; <strong>Sun, Linlin</strong><br>
-<a href="http://dx.doi.org/10.1016/j.geomphys.2013.10.011">J. Geom. Phys. 76 (2014), 66–78.</a>  
-</details>
+- Gradient estimates and Liouville theorems for Dirac-harmonic maps (with Qun Chen, Jürgen Jost), [J. Geom. Phys., 2014](http://dx.doi.org/10.1016/j.geomphys.2013.10.011)
 
 ---
 
