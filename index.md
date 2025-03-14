@@ -1,6 +1,4 @@
----
-layout: home
----
+# 孙林林 - 个人主页
 
 [简历](#简历) &nbsp;  &nbsp; [论文](#论文) &nbsp; &nbsp; [项目](#项目) &nbsp; &nbsp; [其他](#其他) &nbsp;  &nbsp; [联系方式](#联系方式)
 
@@ -71,3 +69,6 @@ layout: home
 - **邮编**：411105
 - **办公室**：A223
 - **邮箱**：sunll@xtu.edu.cn
+
+---
+Copyright © 2025 孙林林
