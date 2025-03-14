@@ -5,6 +5,8 @@ title: 论文
 
 # 论文
 
+[MathSciNet](https://mathscinet.ams.org/mathscinet/2006/mathscinet/search/author.html?mrauthid=1047065)
+
 [已发表](#已发表) &nbsp; &nbsp; &nbsp; [预印本](#预印本) 
 
 ## 已发表
