@@ -9,7 +9,7 @@ title: 孙林林 - 个人主页
 
 ## 简历
  
-湘潭大学,  数学与计算科学学院,  副教授  &nbsp;  &nbsp;  &nbsp;  sunll@xtu.edu.cn
+湘潭大学,  数学与计算科学学院,  副教授  &nbsp;  &nbsp;  &nbsp;  [sunll@xtu.edu.cn](mailto:sunll@xtu.edu.cn)
 
 ### 研究方向
 微分几何与几何分析 
