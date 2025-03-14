@@ -3,9 +3,9 @@ layout: default
 title: 孙林林 - 个人主页
 ---
 # 个人主页
-[ORCID](https://orcid.org/0000-0002-8842-2296)
-
 [简历](#简历) &nbsp; &nbsp; &nbsp; [项目](#项目) &nbsp; &nbsp;  &nbsp; [其他](#其他)  
+
+[ORCID](https://orcid.org/0000-0002-8842-2296)
 
 ## 简历
  
