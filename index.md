@@ -50,7 +50,6 @@ layout: home
 ---
 
 ## 更多
-- [科研活动](activities.md)
 - [其他信息](other_info.md)
 
 ---
