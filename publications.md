@@ -2,7 +2,7 @@
 title: 论文
 ---
 
-## 已发表文章
+## 已发表
 
 ### 2025
 - Dirac-harmonic maps with the trivial index (with Jürgen Jost, Jingyong Zhu), [Sci. China Math., 2025](https://doi.org/10.1007/s11425-023-2283-0)
