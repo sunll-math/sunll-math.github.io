@@ -2,7 +2,9 @@
 layout: home
 ---
 
-[个人简历](#个人简历) &nbsp;  &nbsp; [成果与项目](#成果与项目) &nbsp;  &nbsp; [更多](#更多) &nbsp;  &nbsp; [联系方式](#联系方式)
+[个人简历](#个人简历) &nbsp;  &nbsp; [科研成果](#科研成果) &nbsp; &nbsp; [科研项目](#科研项目) &nbsp; &nbsp; [更多](#更多) &nbsp;  &nbsp; [联系方式](#联系方式)
+
+## 个人简历
  
 湘潭大学, 数学与计算科学学院, 副教授  
 
@@ -25,7 +27,6 @@ layout: home
 ---
 
 ## 科研成果
-
 - Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem (with Qun Chen, Jürgen Jost and Miaomiao Zhu), [J. Eur. Math. Soc., 2019](https://doi.org/10.4171/JEMS/847)
 - Brouwer degree for Kazdan-Warner equations on a connected finite graph (With Liuquan Wang), [Adv. Math., 2022](https://doi.org/10.1016/j.aim.2022.108422)
 - Rigidity theorems for minimal Lagrangian surfaces with Legendrian capillary boundary (With Yong Luo), [Adv. Math., 2021](https://doi.org/10.1016/j.aim.2021.108124)
