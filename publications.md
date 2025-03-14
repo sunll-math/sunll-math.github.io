@@ -1,6 +1,8 @@
-# 已发表文章
+# 科研成果
 
-## 2025
+##已发表文章
+
+### 2025
 <details>
 <summary>Dirac-harmonic maps with the trivial index</summary>
 
@@ -8,7 +10,7 @@ Jost, Jürgen; <strong>Sun, Linlin</strong>; Zhu, Jingyong<br>
 <a href="https://doi.org/10.1007/s11425-023-2283-0">Sci. China Math. 68 (2025), no. 4, 917-938.</a>
 </details>
 
-## 2024
+### 2024
 <details>
 <summary>An existence result for the Kazdan-Warner equation with a sign-changing prescribed function</summary>
 
@@ -23,7 +25,7 @@ Li, Jiayu; <strong>Sun, Linlin</strong>; Yang, Yunyan<br>
 <a href="https://doi.org/10.1007/s00526-024-02706-8">Calc. Var. Partial Differential Equations 63 (2024), no. 4, Paper No. 81, 21 pp.</a>  
 </details>
 
-## 2023
+### 2023
 <details>
 <summary>Complete self-similar hypersurfaces to the mean curvature flow with nonnegative constant scalar curvature</summary>
 
@@ -45,7 +47,7 @@ Li, Jiayu; <strong>Sun, Linlin</strong>; Yang, Yunyan<br>
 <a href="https://doi.org/10.1007/s11425-021-1962-5">Sci. China Math. 66 (2023), no. 1, 115–142.</a>  
 </details>
 
-## 2022
+### 2022
 <details>
 <summary>An optimal pinching theorem of minimal Legendrian submanifolds in the unit sphere</summary>
 
@@ -60,7 +62,7 @@ Luo, Yong; <strong>Sun, Linlin</strong>; Yin, Jiabin<br>
 <a href="https://doi.org/10.1016/j.aim.2022.108422">Adv. Math. 404 (2022), part B, Paper No. 108422, 29 pp.</a>  
 </details>
 
-## 2021
+### 2021
 <details>
 <summary>A note on rigidity of Einstein four-manifolds with positive sectional curvature</summary>
 
@@ -96,7 +98,7 @@ Qiu, Hongbing; <strong>Sun, Linlin</strong><br>
 <a href="https://doi.org/10.1016/j.jfa.2021.109189">J. Funct. Anal. 281 (2021), no. 9, Paper No. 109189, 24 pp.</a>  
 </details>
 
-## 2020
+### 2020
 <details>
 <summary>Complete Willmore Legendrian surfaces in S5 are minimal Legendrian surfaces</summary>
 
@@ -118,7 +120,7 @@ Sun, Jun; <strong>Sun, Linlin</strong><br>
 <a href="https://dx.doi.org/10.4310/MRL.2020.v27.n4.a10">Math. Res. Lett. 27 (2020), no. 4, 1195–1236.</a>  
 </details>
 
-## 2019
+### 2019
 <details>
 <summary>Dirac-harmonic maps between Riemann surfaces</summary>
 
@@ -147,7 +149,7 @@ Cui, Qing; <strong>Sun, Linlin</strong><br>
 <a href="https://doi.org/10.1007/s00526-019-1487-2">Calc. Var. Partial Differential Equations 58 (2019), no. 2, Paper No. 43, 24 pp.</a>  
 </details>
 
-## 2018
+### 2018
 <details>
 <summary>A note on the uncoupled Dirac-harmonic maps from Kähler spin manifolds to Kähler manifolds</summary>
 
@@ -162,7 +164,7 @@ Cui, Qing; <strong>Sun, Linlin</strong><br>
 <a href="https://doi.org/10.1090/proc/13855">Proc. Amer. Math. Soc. 146 (2018), no. 2, 759–771.</a>  
 </details>
 
-## 2016
+### 2016
 <details>
 <summary>A note on the nonexistence of quasi-harmonic spheres</summary>
 
@@ -170,7 +172,7 @@ Li, Jiayu; <strong>Sun, Linlin</strong><br>
 <a href="https://doi.org/10.1007/s00526-016-1076-6">Calc. Var. Partial Differential Equations 55 (2016), no. 6, Art. 151, 13 pp.</a>  
 </details>
 
-## 2015
+### 2015
 <details>
 <summary>Dirac-geodesics and their heat flows</summary>
 
@@ -178,7 +180,7 @@ Chen, Qun; Jost, Jürgen; <strong>Sun, Linlin</strong>; Zhu, Miaomiao<br>
 <a href="https://doi.org/10.1007/s00526-015-0877-3">Calc. Var. Partial Differential Equations 54 (2015), no. 3, 2615–2635.</a>  
 </details>
 
-## 2014
+### 2014
 <details>
 <summary>Gradient estimates and Liouville theorems for Dirac-harmonic maps</summary>
 
@@ -188,7 +190,7 @@ Chen, Qun; Jost, Jürgen; <strong>Sun, Linlin</strong><br>
 
 ---
 
-# 预印本
+## 预印本
 [arXiv](https://arxiv.org/a/sun_l_3.html)
 
 [返回首页](index.md)
