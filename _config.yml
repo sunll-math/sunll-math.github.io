@@ -1,0 +1,32 @@
+title: 孙林林 - 个人学术主页
+description: 欢迎访问孙林林的个人主页
+theme: minima
+
+# 导航栏
+navbar:
+  - name: 简历
+    url: /#简历
+  - name: 论文
+    url: /#论文
+  - name: 项目
+    url: /#项目
+  - name: 其他
+    url: /#其他
+  - name: 联系方式
+    url: /#联系方式
+
+# 页脚配置
+footer:
+  links:
+    - label: "Github"
+      url: "https://github.com"
+    - label: "ORCID"
+      url: "https://orcid.org"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com"
+  copyright: "© 2023 孙林林. 保留所有权利."
+  contact:
+    address: "湖南省湘潭市湘潭大学数学与计算科学学院"
+    postal_code: "411105"
+    office: "A223"
+    email: "sunll@xtu.edu.cn"
