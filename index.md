@@ -28,6 +28,8 @@ layout: home
 
 ## 代表性成果
 
+- Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem (with Qun Chen, Jürgen Jost and Miaomiao Zhu), [J. Eur. Math. Soc., 2019](https://doi.org/10.4171/JEMS/847)
+- 
 <details>
 <summary><strong>Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem (with Qun Chen, Jürgen Jost and Miaomiao Zhu)</strong> &nbsp; 
  <a href="https://doi.org/10.4171/JEMS/847">J. Eur. Math. Soc., 2019</a></summary>
