@@ -1,6 +1,17 @@
+<!-- 页眉 -->
+<div align="center">
+  <h1>孙林林 - 个人学术主页</h1>
+  <p>
+    <a href="#简历">简历</a> &nbsp; | &nbsp; 
+    <a href="#论文">论文</a> &nbsp; | &nbsp; 
+    <a href="#项目">项目</a> &nbsp; | &nbsp; 
+    <a href="#其他">其他</a> &nbsp; | &nbsp; 
+    <a href="#联系方式">联系方式</a>
+  </p>
+</div>
+
 ---
-title: 孙林林 - 个人主页
----
+
 
 
 # 孙林林 - 个人主页
