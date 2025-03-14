@@ -70,8 +70,6 @@
 - 2024-04-11至2024-04-15, 桂林, [广西师大2024年微分几何研讨会](files/广西师大2024年微分几何研讨会.pdf)
 - 2023-11-24至2023-11-27, 桂林, [广西师大-湾大2023年青年微分几何研讨会](files/广西师大-湾大2023年青年微分几何研讨会.pdf)
 
-
-
 ---
 
 ## 联系方式
@@ -80,12 +78,13 @@
 - **办公室**：A223
 - **邮箱**：sunll@xtu.edu.cn
 
+---
 
 <!-- 页脚 -->
 <div align="center">
   <p>
     <a href="#孙林林---个人学术主页">返回顶部</a> &nbsp; | &nbsp; 
-    <a href="https://github.com/yourusername">Github主页</a> &nbsp; | &nbsp; 
+    <a href="https://github.com/sunll-math">Github主页</a> &nbsp; | &nbsp; 
     <a href="https://orcid.org/your-orcid-id">ORCID</a> &nbsp; | &nbsp; 
     <a href="https://scholar.google.com/citations?user=your-id">Google Scholar</a>
   </p>
