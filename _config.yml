@@ -12,8 +12,6 @@ navbar:
     url: /#项目
   - name: 其他
     url: /#其他
-  - name: 联系方式
-    url: /#联系方式
 
 # 页脚配置
 footer:
