@@ -1,4 +1,7 @@
-# 论文
+---
+layout: default
+title: 论文
+---
 
 ## 已发表
 
