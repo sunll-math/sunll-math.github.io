@@ -11,8 +11,8 @@ layout: home
 - 几何分析 
 
 ### 教育经历
-- **2009-09 至 2015-06**, 武汉大学, 基础数学, 博士  
-- **2012-10 至 2015-02**, 德国莱比锡马普所 & 莱比锡大学, 基础数学, 博士  
+- **2009-09 至 2015-06**, 武汉大学, 基础数学, 博士，导师：陈群教授
+- **2012-10 至 2015-02**, 德国莱比锡马普所 & 莱比锡大学, 基础数学, 博士, 导师：陈群教授与 Jürgen Jost 教授  
 - **2004-09 至 2008-06**, 武汉大学, 基础数学, 学士
  
 ### 工作经历
@@ -21,7 +21,7 @@ layout: home
 - **2021-08 至 2023-06**, 武汉大学, 数学与统计学院, 副教授  
 - **2017-06 至 2021-07**, 武汉大学, 数学与统计学院, 讲师  
 - **2019-09 至 2020-07**, 德国莱比锡马普所, 应用数学所, 访问学者
-- **2015-06 至 2017-05**, 中国科学技术大学, 数学科学学院, 博士后
+- **2015-06 至 2017-05**, 中国科学技术大学, 数学科学学院, 博士后, 合作导师：李嘉禹教授
  
 
 ---
@@ -29,7 +29,7 @@ layout: home
 ## 代表性成果
 
 <details>
-<summary><strong>Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem</strong> &nbsp; 
+<summary><strong>Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem (with Qun Chen, Jürgen Jost and Miaomiao Zhu)</strong> &nbsp; 
  <a href="https://doi.org/10.4171/JEMS/847">J. Eur. Math. Soc., 2019</a></summary>
 
 <strong>作者</strong>: Chen, Qun; Jost, Jürgen; <strong>Sun, Linlin</strong>; Zhu, Miaomiao<br>
