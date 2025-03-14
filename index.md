@@ -2,9 +2,9 @@
 layout: home
 ---
 
-[个人简历](#个人简历) &nbsp;  &nbsp; [科研成果](#科研成果) &nbsp; &nbsp; [科研项目](#科研项目) &nbsp; &nbsp; [其他](#其他) &nbsp;  &nbsp; [联系方式](#联系方式)
+[简历](#简历) &nbsp;  &nbsp; [论文](#论文) &nbsp; &nbsp; [项目](#项目) &nbsp; &nbsp; [其他](#其他) &nbsp;  &nbsp; [联系方式](#联系方式)
 
-## 个人简历
+## 简历
  
 湘潭大学, 数学与计算科学学院, 副教授
 
@@ -26,7 +26,7 @@ layout: home
  
 ---
 
-## 科研成果
+## 论文
 - Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem (with Qun Chen, Jürgen Jost and Miaomiao Zhu), [J. Eur. Math. Soc., 2019](https://doi.org/10.4171/JEMS/847)
 - Brouwer degree for Kazdan-Warner equations on a connected finite graph (With Liuquan Wang), [Adv. Math., 2022](https://doi.org/10.1016/j.aim.2022.108422)
 - Rigidity theorems for minimal Lagrangian surfaces with Legendrian capillary boundary (With Yong Luo), [Adv. Math., 2021](https://doi.org/10.1016/j.aim.2021.108124)
@@ -35,7 +35,7 @@ layout: home
 
 [查看更多成果](publications.md)
 
-## 科研项目
+## 项目
 
 ### 主持
 - 国家自然科学基金委员会, 青年科学基金项目, 11801420, 狄拉克-调和映照及其相关问题, 2019-01-01至2021-12-31, 25万元, 主持
