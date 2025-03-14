@@ -17,16 +17,6 @@ navbar:
 
 # 页脚配置
 footer:
-  links:
-    - label: "Github"
-      url: "https://github.com"
-    - label: "ORCID"
-      url: "https://orcid.org"
-    - label: "Google Scholar"
-      url: "https://scholar.google.com"
-  copyright: "© 2023 孙林林. 保留所有权利."
-  contact:
-    address: "湖南省湘潭市湘潭大学数学与计算科学学院"
-    postal_code: "411105"
-    office: "A223"
-    email: "sunll@xtu.edu.cn"
+  copyright: "© 2023 孙林林."
+  address: "湖南省湘潭市湘潭大学数学与计算科学学院"
+  postal_code: "411105"
