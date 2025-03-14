@@ -4,12 +4,10 @@ title: 论文
 ---
 
 # 论文
-
-[MathSciNet](https://mathscinet.ams.org/mathscinet/2006/mathscinet/search/author.html?mrauthid=1047065)
-
 [已发表](#已发表) &nbsp; &nbsp; &nbsp; [预印本](#预印本) 
 
 ## 已发表
+[MathSciNet](https://mathscinet.ams.org/mathscinet/2006/mathscinet/search/author.html?mrauthid=1047065)
 
 ### 2025
 - Dirac-harmonic maps with the trivial index (with Jürgen Jost and Jingyong Zhu), [Sci. China Math., 2025](https://doi.org/10.1007/s11425-023-2283-0)
@@ -62,6 +60,7 @@ title: 论文
 
 ## 预印本
 [arXiv](https://arxiv.org/a/sun_l_3.html)
+
 - Critical quasilinear equations on Riemannian manifolds (with Youde Wang), [arXiv, 2025](https://doi.org/10.48550/arXiv.2502.08495)
 - Existence results for Toda systems with sign-changing prescribed functions: Part II (with Xiaobao Zhu), [arXiv, 2024](https://doi.org/10.48550/arXiv.2412.07537)
 - Existence results for Toda systems with sign-changing prescribed functions: Part I (with Xiaobao Zhu), [arXiv, 2024](https://doi.org/10.48550/arXiv.2412.05578)
