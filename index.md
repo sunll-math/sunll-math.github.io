@@ -71,7 +71,3 @@ layout: home
 - **邮编**：411105
 - **办公室**：A223
 - **邮箱**：sunll@xtu.edu.cn
-
----
-
-Copyright © 2025 孙林林
