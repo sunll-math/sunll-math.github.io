@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 孙林林 - 个人学术主页
+title: 孙林林 - 个人主页
 ---
 
 [简历](#简历) &nbsp; &nbsp; &nbsp; [项目](#项目) &nbsp; &nbsp;  &nbsp; [其他](#其他)  
