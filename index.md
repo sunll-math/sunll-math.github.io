@@ -33,7 +33,7 @@ layout: home
 - Rigidity of closed CSL submanifolds in the unit sphere (With Yong Luo), [Ann. Inst. H. Poincaré C Anal. Non Linéaire, 2023](https://doi.org/10.4171/aihpc/50)
 - Rigidity theorems of spacelike entire self-shrinking graphs in the pseudo-Euclidean space (With Hongbing Qiu), [J. Funct. Anal., 2021](https://doi.org/10.1016/j.jfa.2021.109189)
 
-[查看更多成果](publications.md)
+[查看更多论文](publications.md)
 
 ## 项目
 
