@@ -12,12 +12,6 @@
 
 ---
 
-
-
-# 孙林林 - 个人主页
-
-[简历](#简历) &nbsp;  &nbsp; [论文](#论文) &nbsp; &nbsp; [项目](#项目) &nbsp; &nbsp; [其他](#其他) &nbsp;  &nbsp; [联系方式](#联系方式)
-
 ## 简历
  
 湘潭大学, 数学与计算科学学院, 副教授
@@ -85,3 +79,15 @@
 - **邮编**：411105
 - **办公室**：A223
 - **邮箱**：sunll@xtu.edu.cn
+
+
+<!-- 页脚 -->
+<div align="center">
+  <p>
+    <a href="#孙林林---个人学术主页">返回顶部</a> &nbsp; | &nbsp; 
+    <a href="https://github.com/yourusername">Github主页</a> &nbsp; | &nbsp; 
+    <a href="https://orcid.org/your-orcid-id">ORCID</a> &nbsp; | &nbsp; 
+    <a href="https://scholar.google.com/citations?user=your-id">Google Scholar</a>
+  </p>
+  <p>© 2023 孙林林. 保留所有权利.</p>
+</div>
