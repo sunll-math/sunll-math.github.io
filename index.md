@@ -2,10 +2,10 @@
 layout: default
 ---
 
-# 湘潭大学, 数学与计算科学学院, 副教授 &nbsp; &nbsp; &nbsp; [sunll@xtu.edu.cn](mailto:sunll@xtu.edu.cn)
+# 湘潭大学, 数学与计算科学学院, 副教授 
 [简历](#简历) &nbsp; &nbsp; &nbsp; [论文](#论文) &nbsp; &nbsp; &nbsp; [项目](#项目) &nbsp; &nbsp; &nbsp; [其他](#其他)  
  
-## 简历 &nbsp; &nbsp; &nbsp; [ORCID](https://orcid.org/0000-0002-8842-2296)
+## 简历 
 
 ### 研究方向
 微分几何与几何分析
