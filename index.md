@@ -1,7 +1,5 @@
 ---
 layout: default
-title: 孙林林 - 个人主页
-
 ---
 
 # 孙林林 - 个人主页
