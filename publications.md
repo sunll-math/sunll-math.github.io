@@ -3,46 +3,6 @@ layout: default
 title: 论文
 ---
 
-<style>
-  .paper-section {
-    margin-bottom: 40px;
-  }
-  .paper-section h2 {
-    border-bottom: 2px solid #2c3e50;
-    padding-bottom: 10px;
-    margin-bottom: 20px;
-    color: #2c3e50;
-  }
-  .paper-list {
-    list-style-type: none;
-    padding-left: 0;
-  }
-  .paper-list li {
-    margin-bottom: 15px;
-  }
-  .paper-list a {
-    color: #1a73e8;
-    text-decoration: none;
-  }
-  .paper-list a:hover {
-    text-decoration: underline;
-  }
-  .nav-links {
-    text-align: center;
-    margin: 20px 0;
-  }
-  .nav-links a {
-    margin: 0 15px;
-    font-size: 18px;
-    color: #2c3e50;
-  }
-</style>
-
-<div class="nav-links">
-  <a href="#已发表">已发表</a>
-  <a href="#预印本">预印本</a>
-</div>
-
 # 论文
 
 ---
