@@ -6,8 +6,7 @@ title: 论文
 # 论文 
 [已发表](#已发表) &nbsp; &nbsp; &nbsp; [预印本](#预印本) 
 
-## 已发表 &nbsp; &nbsp; &nbsp; [MathSciNet](https://mathscinet.ams.org/mathscinet/2006/mathscinet/search/author.html?mrauthid=1047065)
-
+## 已发表 
 ### 2025
 - <em>Dirac-harmonic maps with the trivial index</em> (with <strong>Jürgen Jost</strong> and <strong>Jingyong Zhu</strong>), [Sci. China Math.](https://doi.org/10.1007/s11425-023-2283-0)
 
@@ -57,8 +56,7 @@ title: 论文
   
  
 
-## 预印本 &nbsp; &nbsp; &nbsp; [arXiv](https://arxiv.org/a/sun_l_3.html)
-
+## 预印本 
 ### 2025
 - <em>Critical quasilinear equations on Riemannian manifolds</em> (with <strong>Youde Wang</strong>), [arXiv](https://doi.org/10.48550/arXiv.2502.08495)
 
