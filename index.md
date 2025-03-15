@@ -30,7 +30,8 @@ title: 孙林林 - 个人主页
 ---
 
 ## 论文
-- Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem (with Qun Chen, Jürgen Jost and Miaomiao Zhu), [J. Eur. Math. Soc., 2019](https://doi.org/10.4171/JEMS/847)
+- **Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem**
+  (with Qun Chen, Jürgen Jost and Miaomiao Zhu), [J. Eur. Math. Soc., 2019](https://doi.org/10.4171/JEMS/847)
 - Brouwer degree for Kazdan-Warner equations on a connected finite graph (With Liuquan Wang), [Adv. Math., 2022](https://doi.org/10.1016/j.aim.2022.108422)
 - Rigidity theorems for minimal Lagrangian surfaces with Legendrian capillary boundary (With Yong Luo), [Adv. Math., 2021](https://doi.org/10.1016/j.aim.2021.108124)
 - Rigidity of closed CSL submanifolds in the unit sphere (With Yong Luo), [Ann. Inst. H. Poincaré C Anal. Non Linéaire, 2023](https://doi.org/10.4171/aihpc/50)
