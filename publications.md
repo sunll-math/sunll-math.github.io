@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 论文
+
 ---
 
 # 论文
@@ -56,7 +57,7 @@ title: 论文
 ### 2014
 - <em>Gradient estimates and Liouville theorems for Dirac-harmonic maps</em> (with <strong>Qun Chen</strong> and <strong>Jürgen Jost</strong>), [J. Geom. Phys.](http://dx.doi.org/10.1016/j.geomphys.2013.10.011)
   
----
+ 
 
 ## 预印本
 [arXiv](https://arxiv.org/a/sun_l_3.html)
@@ -76,6 +77,6 @@ title: 论文
 ### 2019
 - <em>Mean curvature flow of surfaces in a hyperkähler 4-manifold</em> (with <strong>Hongbing Qiu</strong>), [arXiv](https://doi.org/10.48550/arXiv.1902.00645)
 
----
+
 
 [返回首页](index.md)
