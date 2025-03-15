@@ -60,12 +60,18 @@ title: 论文
 ## 预印本
 [arXiv](https://arxiv.org/a/sun_l_3.html)
 
-- Critical quasilinear equations on Riemannian manifolds (with Youde Wang), [arXiv, 2025](https://doi.org/10.48550/arXiv.2502.08495)
-- Existence results for Toda systems with sign-changing prescribed functions: Part II (with Xiaobao Zhu), [arXiv, 2024](https://doi.org/10.48550/arXiv.2412.07537)
-- Existence results for Toda systems with sign-changing prescribed functions: Part I (with Xiaobao Zhu), [arXiv, 2024](https://doi.org/10.48550/arXiv.2412.05578)
-- Optimal Liouville theorems for the Lane-Emden equation on Riemannian manifolds (with Jie He and Youde Wang), [arXiv, 2024](https://doi.org/10.48550/arXiv.2411.06956)
-- Sinh-Gordon equations on finite graphs, [arXiv, 2024](https://doi.org/10.48550/arXiv.2406.17166)
-- Existence results for a generalized mean field equation on a closed Riemann surface (with Yamin Wang and Yunyan Yang), [arXiv, 2021](https://doi.org/10.48550/arXiv.2101.03859)
-- Mean curvature flow of surfaces in a hyperkähler 4-manifold (with Hongbing Qiu), [arXiv, 2019](https://doi.org/10.48550/arXiv.1902.00645)
+- **2025**
+  - <em>Critical quasilinear equations on Riemannian manifolds</em> (with <strong>Youde Wang</strong>), [arXiv](https://doi.org/10.48550/arXiv.2502.08495)
 
+- **2024**
+  - <em>Existence results for Toda systems with sign-changing prescribed functions: Part II</em> (with <strong>Xiaobao Zhu</strong>), [arXiv](https://doi.org/10.48550/arXiv.2412.07537)
+  - <em>Existence results for Toda systems with sign-changing prescribed functions: Part I</em> (with <strong>Xiaobao Zhu</strong>), [arXiv](https://doi.org/10.48550/arXiv.2412.05578)
+  - <em>Optimal Liouville theorems for the Lane-Emden equation on Riemannian manifolds</em> (with <strong>Jie He</strong> and <strong>Youde Wang</strong>), [arXiv](https://doi.org/10.48550/arXiv.2411.06956)
+  - <em>Sinh-Gordon equations on finite graphs</em>, [arXiv](https://doi.org/10.48550/arXiv.2406.17166)
+
+- **2021**
+  - <em>Existence results for a generalized mean field equation on a closed Riemann surface</em> (with <strong>Yamin Wang</strong> and <strong>Yunyan Yang</strong>), [arXiv](https://doi.org/10.48550/arXiv.2101.03859)
+
+- **2019**
+  - <em>Mean curvature flow of surfaces in a hyperkähler 4-manifold</em> (with <strong>Hongbing Qiu</strong>), [arXiv](https://doi.org/10.48550/arXiv.1902.00645)
 [返回首页](index.md)
