@@ -1,9 +1,9 @@
 ---
 layout: default
 title: 论文
-
 ---
 
+# 论文 
 [已发表](#已发表) &nbsp; &nbsp; &nbsp; [预印本](#预印本) 
 
 ## 已发表
