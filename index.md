@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 欢迎来到我的个人主页
+# 几何天成
 [简历](#简历) &nbsp; &nbsp; &nbsp; [论文](#论文) &nbsp; &nbsp; &nbsp; [项目](#项目) &nbsp; &nbsp; &nbsp; [其他](#其他)  
  
 ## 简历 
