@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 几何天成
+# 大道至简
 [简历](#简历) &nbsp; &nbsp; &nbsp; [论文](#论文) &nbsp; &nbsp; &nbsp; [项目](#项目) &nbsp; &nbsp; &nbsp; [其他](#其他)  
  
 ## 简历 
