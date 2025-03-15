@@ -5,6 +5,7 @@ title: 孙林林 - 个人主页
 
 # 孙林林 - 个人主页
 [简历](#简历) &nbsp; &nbsp; &nbsp; [论文](#论文) &nbsp; &nbsp; &nbsp; [项目](#项目) &nbsp; &nbsp; &nbsp; [其他](#其他)  
+
 ---
 
 ## 简历
@@ -26,6 +27,7 @@ title: 孙林林 - 个人主页
 - **2017-06 至 2021-07**, 武汉大学, 数学与统计学院, 讲师
 - **2019-09 至 2020-07**, 德国莱比锡马普所, 应用数学所, 访问学者
 - **2015-06 至 2017-05**, 中国科学技术大学, 数学科学学院, 博士后, 合作导师：[李嘉禹教授](http://staff.ustc.edu.cn/~jiayuli/index_cn.html)
+  
 ---
 
 ## 论文
@@ -37,6 +39,7 @@ title: 孙林林 - 个人主页
 - <em>Rigidity theorems of spacelike entire self-shrinking graphs in the pseudo-Euclidean space</em> (with <strong>Hongbing Qiu</strong>), [*J. Funct. Anal.*, 2021](https://doi.org/10.1016/j.jfa.2021.109189)
 
 [查看更多论文](publications.md)
+
 ---
 
 ## 项目
@@ -47,6 +50,7 @@ title: 孙林林 - 个人主页
 - **2018-2021**, NSFC面上项目, 阿蒂亚-辛格指标理论中的若干问题, 参与
 - **2016-2019**, NSFC面上项目, 几何与物理中若干非线性方程的存在性与奇性问题研究, 参与
 - **2012-2015**, NSFC面上项目, 旋量场与流形的几何分析, 参与
+  
 ---
 
 ## 其他
