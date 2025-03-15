@@ -3,12 +3,6 @@ layout: default
 title: 孙林林 - 个人主页
 ---
 
-<div class="navbar">
-  {% for item in site.navbar %}
-    <a href="{{ item.url }}">{{ item.name }}</a>
-  {% endfor %}
-</div>
-
 <h1>孙林林 - 个人主页</h1>
 
 <p style="text-align: center;">
