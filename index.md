@@ -31,25 +31,16 @@ title: 孙林林 - 个人主页
 
 ## 论文
 
-- <em>Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem</em>  
-  (with <strong>Qun Chen</strong>, <strong>Jürgen Jost</strong>, and <strong>Miaomiao Zhu</strong>),  
-  [*J. Eur. Math. Soc.*, 2019](https://doi.org/10.4171/JEMS/847)
+- <em>Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem</em> (with <strong>Qun Chen</strong>, <strong>Jürgen Jost</strong>, and <strong>Miaomiao Zhu</strong>), [*J. Eur. Math. Soc.*, 2019](https://doi.org/10.4171/JEMS/847)
 
-- <em>Brouwer degree for Kazdan-Warner equations on a connected finite graph</em>  
-  (with <strong>Liuquan Wang</strong>),  
-  [*Adv. Math.*, 2022](https://doi.org/10.1016/j.aim.2022.108422)
+- <em>Brouwer degree for Kazdan-Warner equations on a connected finite graph</em> (with <strong>Liuquan Wang</strong>), [*Adv. Math.*, 2022](https://doi.org/10.1016/j.aim.2022.108422)
 
-- <em>Rigidity theorems for minimal Lagrangian surfaces with Legendrian capillary boundary</em>  
-  (with <strong>Yong Luo</strong>),  
-  [*Adv. Math.*, 2021](https://doi.org/10.1016/j.aim.2021.108124)
+- <em>Rigidity theorems for minimal Lagrangian surfaces with Legendrian capillary boundary</em> (with <strong>Yong Luo</strong>), [*Adv. Math.*, 2021](https://doi.org/10.1016/j.aim.2021.108124)
 
-- <em>Rigidity of closed CSL submanifolds in the unit sphere</em>  
-  (with <strong>Yong Luo</strong>),  
-  [*Ann. Inst. H. Poincaré C Anal. Non Linéaire*, 2023](https://doi.org/10.4171/aihpc/50)
+- <em>Rigidity of closed CSL submanifolds in the unit sphere</em> (with <strong>Yong Luo</strong>), [*Ann. Inst. H. Poincaré C Anal. Non Linéaire*, 2023](https://doi.org/10.4171/aihpc/50)
 
-- <em>Rigidity theorems of spacelike entire self-shrinking graphs in the pseudo-Euclidean space</em>  
-  (with <strong>Hongbing Qiu</strong>),  
-  [*J. Funct. Anal.*, 2021](https://doi.org/10.1016/j.jfa.2021.109189)
+- <em>Rigidity theorems of spacelike entire self-shrinking graphs in the pseudo-Euclidean space</em> (with <strong>Hongbing Qiu</strong>), [*J. Funct. Anal.*, 2021](https://doi.org/10.1016/j.jfa.2021.109189)
+
 [查看更多论文](publications.md)
 
 ## 项目
