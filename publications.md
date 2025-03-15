@@ -55,23 +55,27 @@ title: 论文
 
 ### 2014
 - <em>Gradient estimates and Liouville theorems for Dirac-harmonic maps</em> (with <strong>Qun Chen</strong> and <strong>Jürgen Jost</strong>), [J. Geom. Phys.](http://dx.doi.org/10.1016/j.geomphys.2013.10.011)
+  
 ---
 
 ## 预印本
 [arXiv](https://arxiv.org/a/sun_l_3.html)
 
 - **2025**
-  - <em>Critical quasilinear equations on Riemannian manifolds</em> (with <strong>Youde Wang</strong>), [arXiv](https://doi.org/10.48550/arXiv.2502.08495)
+- <em>Critical quasilinear equations on Riemannian manifolds</em> (with <strong>Youde Wang</strong>), [arXiv](https://doi.org/10.48550/arXiv.2502.08495)
 
 - **2024**
-  - <em>Existence results for Toda systems with sign-changing prescribed functions: Part II</em> (with <strong>Xiaobao Zhu</strong>), [arXiv](https://doi.org/10.48550/arXiv.2412.07537)
-  - <em>Existence results for Toda systems with sign-changing prescribed functions: Part I</em> (with <strong>Xiaobao Zhu</strong>), [arXiv](https://doi.org/10.48550/arXiv.2412.05578)
-  - <em>Optimal Liouville theorems for the Lane-Emden equation on Riemannian manifolds</em> (with <strong>Jie He</strong> and <strong>Youde Wang</strong>), [arXiv](https://doi.org/10.48550/arXiv.2411.06956)
-  - <em>Sinh-Gordon equations on finite graphs</em>, [arXiv](https://doi.org/10.48550/arXiv.2406.17166)
+- <em>Existence results for Toda systems with sign-changing prescribed functions: Part II</em> (with <strong>Xiaobao Zhu</strong>), [arXiv](https://doi.org/10.48550/arXiv.2412.07537)
+- <em>Existence results for Toda systems with sign-changing prescribed functions: Part I</em> (with <strong>Xiaobao Zhu</strong>), [arXiv](https://doi.org/10.48550/arXiv.2412.05578)
+- <em>Optimal Liouville theorems for the Lane-Emden equation on Riemannian manifolds</em> (with <strong>Jie He</strong> and <strong>Youde Wang</strong>), [arXiv](https://doi.org/10.48550/arXiv.2411.06956)
+- <em>Sinh-Gordon equations on finite graphs</em>, [arXiv](https://doi.org/10.48550/arXiv.2406.17166)
 
 - **2021**
-  - <em>Existence results for a generalized mean field equation on a closed Riemann surface</em> (with <strong>Yamin Wang</strong> and <strong>Yunyan Yang</strong>), [arXiv](https://doi.org/10.48550/arXiv.2101.03859)
+- <em>Existence results for a generalized mean field equation on a closed Riemann surface</em> (with <strong>Yamin Wang</strong> and <strong>Yunyan Yang</strong>), [arXiv](https://doi.org/10.48550/arXiv.2101.03859)
 
 - **2019**
-  - <em>Mean curvature flow of surfaces in a hyperkähler 4-manifold</em> (with <strong>Hongbing Qiu</strong>), [arXiv](https://doi.org/10.48550/arXiv.1902.00645)
+- <em>Mean curvature flow of surfaces in a hyperkähler 4-manifold</em> (with <strong>Hongbing Qiu</strong>), [arXiv](https://doi.org/10.48550/arXiv.1902.00645)
+
+---
+
 [返回首页](index.md)
