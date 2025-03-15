@@ -1,8 +1,9 @@
+# 网站基本信息
 title: 孙林林 - 个人主页
 description: 欢迎访问孙林林的个人主页
 theme: minima
 
-# 导航栏
+# 导航栏配置
 navbar:
   - name: 简历
     url: /#简历
@@ -18,3 +19,8 @@ footer:
   copyright: "©2025 孙林林"
   address: "湖南省湘潭市湘潭大学数学与计算科学学院"
   postal_code: "411105"
+  contact: "邮箱: sunll@xtu.edu.cn | ORCID: [0000-0002-8842-2296](https://orcid.org/0000-0002-8842-2296)"
+
+# 自定义样式
+styles:
+  - /assets/css/custom.css
