@@ -84,8 +84,3 @@ title: 孙林林 - 个人主页
 - 2024-04-11 至 2024-04-15, 桂林, <a href="files/广西师大2024年微分几何研讨会.pdf" target="_blank">广西师大2024年微分几何研讨会</a>
 - 2023-11-24 至 2023-11-27, 桂林, <a href="files/广西师大-湾大2023年青年微分几何研讨会.pdf" target="_blank">广西师大-湾大2023年青年微分几何研讨会</a>
 
-<div class="footer">
-  <p>{{ site.footer.copyright }}</p>
-  <p>{{ site.footer.address }} | 邮编: {{ site.footer.postal_code }}</p>
-  <p>{{ site.footer.contact }}</p>
-</div>
