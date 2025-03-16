@@ -20,7 +20,7 @@ footer:
   address: "湖南省湘潭市湘潭大学数学与计算科学学院"
   postal_code: "411105"
   contact: 
-    email: '<a href="mailto:sunll@xtu.edu.cn">sunll@xtu.edu.cn</a>'
+    email: "sunll AT xtu.edu.cn"
     orcid: '<a href="https://orcid.org/0000-0002-8842-2296">ORCID</a>'
     mathscinet: '<a href="https://mathscinet.ams.org/mathscinet/2006/mathscinet/search/author.html?mrauthid=1047065">MathSciNet</a>'
     arxiv: '<a href="https://arxiv.org/a/sun_l_3.html">arXiv</a>'
