@@ -35,7 +35,7 @@ layout: default
 - <em>Rigidity theorems of spacelike entire self-shrinking graphs in the pseudo-Euclidean space</em> (合作者：<strong>邱红兵</strong>), &nbsp; [*J. Funct. Anal.*, 2021](https://doi.org/10.1016/j.jfa.2021.109189)
 
 ### 其他论文 
-[查看更多论文](publications.md) 
+[查看](publications.md) 
 
 ## 项目
 
