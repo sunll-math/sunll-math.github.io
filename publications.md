@@ -70,6 +70,9 @@ title: 论文
 ### 2019
 - <em>Mean curvature flow of surfaces in a hyperkähler 4-manifold</em> (合作者：<strong>邱红兵</strong>), &nbsp; [arXiv](https://doi.org/10.48550/arXiv.1902.00645)
 
+### 2018
+- <em>Extrinsic eigenvalue estimates for Dirac operator</em> (合作者：<strong>陈群</strong>), &nbsp; [arXiv](https://doi.org/10.48550/arXiv.1810.07342)
+
 ---
 [返回首页](index.md)
 
