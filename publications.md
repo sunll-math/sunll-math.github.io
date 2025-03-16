@@ -17,7 +17,7 @@ title: 论文
 ### 2023
 - <em>Complete self-similar hypersurfaces to the mean curvature flow with nonnegative constant scalar curvature</em> (with <strong>Yong Luo</strong> and <strong>Jiabin Yin</strong>), [Front. Math.](https://doi.org/10.1007/s11464-021-0229-x)
 - <em>Rigidity of closed CSL submanifolds in the unit sphere</em> (with <strong>Yong Luo</strong>), [Ann. Inst. H. Poincaré C Anal. Non Linéaire](https://doi.org/10.4171/aihpc/50)
-- <em>The boundary value problem for the mean field equation on a compact Riemann surface</em> (with <strong>Jiayu Li</strong> and <strong>Yunyan Yang</strong>), [Sci. China Math., 2023](https://doi.org/10.1007/s11425-021-1962-5)
+- <em>The boundary value problem for the mean field equation on a compact Riemann surface</em> (with <strong>Jiayu Li</strong> and <strong>Yunyan Yang</strong>), [Sci. China Math.](https://doi.org/10.1007/s11425-021-1962-5)
 
 ### 2022
 - <em>An optimal pinching theorem of minimal Legendrian submanifolds in the unit sphere</em> (with <strong>Yong Luo</strong> and <strong>Jiabin Yin</strong>), [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-022-02304-6)
