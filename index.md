@@ -10,7 +10,7 @@ layout: default
 [湘潭大学](https://math.xtu.edu.cn/) &nbsp; [数学与计算科学学院](https://math.xtu.edu.cn/) &nbsp; 副教授 &nbsp;&nbsp; &nbsp; 
 <a id="email-link" href="#">sunll AT xtu.edu.cn</a>
 <script>
-  var email = "sunll" + "@" + "xtu.edu.cn";
+  var email = atob("WGFiQGd4bnUuZWR1LmNu");
   document.getElementById("email-link").href = "mailto:" + email;
 </script>
 
