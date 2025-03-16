@@ -27,22 +27,26 @@ layout: default
 
 ## 论文
 
+### 代表作
 - <em>Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem</em> (合作者：<strong>陈群</strong>、<strong>Jürgen Jost</strong>、<strong>朱苗苗</strong>), &nbsp; [*J. Eur. Math. Soc.*, 2019](https://doi.org/10.4171/JEMS/847)
 - <em>Brouwer degree for Kazdan-Warner equations on a connected finite graph</em> (合作者：<strong>王六权</strong>), &nbsp; [*Adv. Math.*, 2022](https://doi.org/10.1016/j.aim.2022.108422)
 - <em>Rigidity theorems for minimal Lagrangian surfaces with Legendrian capillary boundary</em> (合作者：<strong>罗勇</strong>), &nbsp; [*Adv. Math.*, 2021](https://doi.org/10.1016/j.aim.2021.108124)
 - <em>Rigidity of closed CSL submanifolds in the unit sphere</em> (合作者：<strong>罗勇</strong>), &nbsp; [*Ann. Inst. H. Poincaré C Anal. Non Linéaire*, 2023](https://doi.org/10.4171/aihpc/50)
 - <em>Rigidity theorems of spacelike entire self-shrinking graphs in the pseudo-Euclidean space</em> (合作者：<strong>邱红兵</strong>), &nbsp; [*J. Funct. Anal.*, 2021](https://doi.org/10.1016/j.jfa.2021.109189)
 
-[查看更多论文](publications.md)
+### [查看更多论文](publications.md) 
 
 ## 项目
 
-- **2019-2021**, NSFC青年项目, *狄拉克-调和映照及其相关问题*, 主持
-- **2018-2019**, 自主科研青年项目, *黎曼面之间的狄拉克-调和映照的存在性*，主持
-- **2020-2023**, NSFC面上项目, *调和映照若干相关模型的研究*, 参与
-- **2018-2021**, NSFC面上项目, *阿蒂亚-辛格指标理论中的若干问题*, 参与
-- **2016-2019**, NSFC面上项目, *几何与物理中若干非线性方程的存在性与奇性问题研究*, 参与
-- **2012-2015**, NSFC面上项目, *旋量场与流形的几何分析*, 参与
+### 主持
+- **2019-2021**, NSFC青年项目, *狄拉克-调和映照及其相关问题*
+- **2018-2019**, 自主科研青年项目, *黎曼面之间的狄拉克-调和映照的存在性*
+
+### 参与
+- **2020-2023**, NSFC面上项目, *调和映照若干相关模型的研究*
+- **2018-2021**, NSFC面上项目, *阿蒂亚-辛格指标理论中的若干问题*
+- **2016-2019**, NSFC面上项目, *几何与物理中若干非线性方程的存在性与奇性问题研究*
+- **2012-2015**, NSFC面上项目, *旋量场与流形的几何分析*
 
 ## 其他
 
