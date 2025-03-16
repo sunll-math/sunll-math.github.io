@@ -13,7 +13,7 @@ layout: default
 微分几何与几何分析
 
 ### 教育经历
-- **2009-09 至 2015-06**, 武汉大学, 基础数学, 博士, &nbsp; 导师：陈群教授
+- **2009-09 至 2015-06**, 武汉大学, 基础数学, 博士, &nbsp; 导师：[陈群教授](https://maths.whu.edu.cn/info/1292/133541.htm)
 - **2012-10 至 2015-02**, 德国莱比锡马普所 & 莱比锡大学, 基础数学, 博士, &nbsp; 导师：[陈群教授](https://maths.whu.edu.cn/info/1292/133541.htm) &nbsp; [Jürgen Jost 教授](https://www.mpg.de/390723/mathematics-in-the-sciences-jost)
 - **2004-09 至 2008-06**, 武汉大学, 基础数学, 学士
 
