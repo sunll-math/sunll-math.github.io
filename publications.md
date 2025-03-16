@@ -8,19 +8,19 @@ title: 论文
 
 ## 已发表 
 ### 2025
-- <em>Dirac-harmonic maps with the trivial index</em> (合作者：<strong>Jürgen Jost</strong>, <strong>朱静勇</strong>), &nbsp; [Sci. China Math.](https://doi.org/10.1007/s11425-023-2283-0)
+- <em>Dirac-harmonic maps with the trivial index</em> (合作者：<strong>Jürgen Jost</strong>、<strong>朱静勇</strong>), &nbsp; [Sci. China Math.](https://doi.org/10.1007/s11425-023-2283-0)
 
 ### 2024
 - <em>An existence result for the Kazdan-Warner equation with a sign-changing prescribed function</em> (合作者：<strong>朱静勇</strong>), &nbsp; [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-023-02659-4)
-- <em>Topological degree for Chern-Simons Higgs models on finite graphs</em> (合作者：<strong>李嘉禹</strong> 、 <strong>杨云雁</strong>), &nbsp; [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-024-02706-8)
+- <em>Topological degree for Chern-Simons Higgs models on finite graphs</em> (合作者：<strong>李嘉禹</strong>、<strong>杨云雁</strong>), &nbsp; [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-024-02706-8)
 
 ### 2023
-- <em>Complete self-similar hypersurfaces to the mean curvature flow with nonnegative constant scalar curvature</em> (合作者：<strong>罗勇</strong> 、 <strong>尹佳斌</strong>), &nbsp; [Front. Math.](https://doi.org/10.1007/s11464-021-0229-x)
+- <em>Complete self-similar hypersurfaces to the mean curvature flow with nonnegative constant scalar curvature</em> (合作者：<strong>罗勇</strong>、<strong>尹佳斌</strong>), &nbsp; [Front. Math.](https://doi.org/10.1007/s11464-021-0229-x)
 - <em>Rigidity of closed CSL submanifolds in the unit sphere</em> (合作者：<strong>罗勇</strong>), &nbsp; [Ann. Inst. H. Poincaré C Anal. Non Linéaire](https://doi.org/10.4171/aihpc/50)
-- <em>The boundary value problem for the mean field equation on a compact Riemann surface</em> (合作者：<strong>李嘉禹</strong> 、 <strong>杨云雁</strong>), &nbsp; [Sci. China Math.](https://doi.org/10.1007/s11425-021-1962-5)
+- <em>The boundary value problem for the mean field equation on a compact Riemann surface</em> (合作者：<strong>李嘉禹</strong>、<strong>杨云雁</strong>), &nbsp; [Sci. China Math.](https://doi.org/10.1007/s11425-021-1962-5)
 
 ### 2022
-- <em>An optimal pinching theorem of minimal Legendrian submanifolds in the unit sphere</em> (合作者：<strong>罗勇</strong> 、 <strong>尹佳斌</strong>), &nbsp; [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-022-02304-6)
+- <em>An optimal pinching theorem of minimal Legendrian submanifolds in the unit sphere</em> (合作者：<strong>罗勇</strong>、<strong>尹佳斌</strong>), &nbsp; [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-022-02304-6)
 - <em>Brouwer degree for Kazdan-Warner equations on a connected finite graph</em> (合作者：<strong>王六权</strong>), &nbsp; [Adv. Math.](https://doi.org/10.1016/j.aim.2022.108422)
 
 ### 2021
@@ -36,7 +36,7 @@ title: 论文
 - <em>Sphere theorems for submanifolds in Kähler manifold</em> (合作者：<strong>孙俊</strong>), &nbsp; [Math. Res. Lett.](https://dx.doi.org/10.4310/MRL.2020.v27.n4.a10)
 
 ### 2019
-- <em>Dirac-harmonic maps between Riemann surfaces</em> (合作者：<strong>陈群</strong>、 <strong>Jürgen Jost</strong> 、 <strong>朱苗苗</strong>), &nbsp; [Asian J. Math.](https://dx.doi.org/10.4310/AJM.2019.v23.n1.a6)
+- <em>Dirac-harmonic maps between Riemann surfaces</em> (合作者：<strong>陈群</strong>、 <strong>Jürgen Jost</strong>、<strong>朱苗苗</strong>), &nbsp; [Asian J. Math.](https://dx.doi.org/10.4310/AJM.2019.v23.n1.a6)
 - <em>Estimates for solutions of Dirac equations and an application to a geometric elliptic-parabolic problem</em> (合作者：<strong>陈群</strong>、 <strong>Jürgen Jost</strong>、 <strong>朱苗苗</strong>), &nbsp; [J. Eur. Math. Soc.](https://doi.org/10.4171/JEMS/847)
 - <em>Optimal lower eigenvalue estimates for Hodge-Laplacian and applications</em> (合作者：<strong>崔庆</strong>), &nbsp; [J. Differential Equations](https://doi.org/10.1016/j.jde.2018.12.032)
 - <em>Some differentiable sphere theorems</em> (合作者：<strong>崔庆</strong>), &nbsp; [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-019-1487-2)
@@ -49,10 +49,10 @@ title: 论文
 - <em>A note on the nonexistence of quasi-harmonic spheres</em> (合作者：<strong>李嘉禹</strong>), &nbsp; [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-016-1076-6)
 
 ### 2015
-- <em>Dirac-geodesics and their heat flows</em> (合作者：<strong>陈群</strong>、 <strong>Jürgen Jost</strong> 、 <strong>朱苗苗</strong>), &nbsp; [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-015-0877-3)
+- <em>Dirac-geodesics and their heat flows</em> (合作者：<strong>陈群</strong>、 <strong>Jürgen Jost</strong>、<strong>朱苗苗</strong>), &nbsp; [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-015-0877-3)
 
 ### 2014
-- <em>Gradient estimates and Liouville theorems for Dirac-harmonic maps</em> (合作者：<strong>陈群</strong> 、 <strong>Jürgen Jost</strong>), &nbsp; [J. Geom. Phys.](http://dx.doi.org/10.1016/j.geomphys.2013.10.011)
+- <em>Gradient estimates and Liouville theorems for Dirac-harmonic maps</em> (合作者：<strong>陈群</strong>、<strong>Jürgen Jost</strong>), &nbsp; [J. Geom. Phys.](http://dx.doi.org/10.1016/j.geomphys.2013.10.011)
   
  
 
@@ -63,11 +63,11 @@ title: 论文
 ### 2024
 - <em>Existence results for Toda systems with sign-changing prescribed functions: Part II</em> (合作者：<strong>朱晓宝</strong>), &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2412.07537)
 - <em>Existence results for Toda systems with sign-changing prescribed functions: Part I</em> (合作者：<strong>朱晓宝</strong>), &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2412.05578)
-- <em>Optimal Liouville theorems for the Lane-Emden equation on Riemannian manifolds</em> (合作者：<strong>贺杰</strong> 、 <strong>王友德</strong>), &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2411.06956)
+- <em>Optimal Liouville theorems for the Lane-Emden equation on Riemannian manifolds</em> (合作者：<strong>贺杰</strong>、<strong>王友德</strong>), &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2411.06956)
 - <em>Sinh-Gordon equations on finite graphs</em>, &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2406.17166)
 
 ### 2021
-- <em>Existence results for a generalized mean field equation on a closed Riemann surface</em> (合作者：<strong>王亚敏</strong> 、 <strong>杨云雁</strong>), &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2101.03859)
+- <em>Existence results for a generalized mean field equation on a closed Riemann surface</em> (合作者：<strong>王亚敏</strong>、<strong>杨云雁</strong>), &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2101.03859)
 
 ### 2019
 - <em>Mean curvature flow of surfaces in a hyperkähler 4-manifold</em> (合作者：<strong>邱红兵</strong>), &nbsp; [arXiv](https://doi.org/10.48550/arXiv.1902.00645)
