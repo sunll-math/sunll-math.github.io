@@ -7,7 +7,7 @@ layout: default
  
 ## 简历 
 
-湘潭大学, 数学与计算科学学院, 副教授 
+[湘潭大学](https://math.xtu.edu.cn/), [数学与计算科学学院](https://math.xtu.edu.cn/), 副教授 
 
 ### 研究方向
 微分几何与几何分析
