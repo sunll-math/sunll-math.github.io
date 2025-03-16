@@ -54,8 +54,6 @@ title: 论文
 ### 2014
 - <em>Gradient estimates and Liouville theorems for Dirac-harmonic maps</em> (合作者：<strong>陈群</strong>、<strong>Jürgen Jost</strong>), &nbsp; [J. Geom. Phys.](http://dx.doi.org/10.1016/j.geomphys.2013.10.011)
   
- 
-
 ## 预印本 
 ### 2025
 - <em>Critical quasilinear equations on Riemannian manifolds</em> (合作者：<strong>王友德</strong>), &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2502.08495)
