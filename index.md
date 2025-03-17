@@ -9,7 +9,8 @@ layout: default
 [湘潭大学](https://math.xtu.edu.cn/) &nbsp; [数学与计算科学学院](https://math.xtu.edu.cn/) &nbsp; 副教授 &nbsp; sunll AT xtu.edu.cn
 
 ### 研究方向
-微分几何与几何分析
+微分几何与几何分析 
+$E=mc^2$
 
 ### 教育经历
 - **2009-09 至 2015-06**, 武汉大学, 基础数学, 博士, &nbsp; 导师：[陈群教授](https://maths.whu.edu.cn/info/1292/133541.htm)
