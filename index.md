@@ -6,7 +6,7 @@ layout: default
 [简历](#简历) &nbsp; &nbsp; &nbsp; [论文](#论文) &nbsp; &nbsp; &nbsp; [项目](#项目) &nbsp; &nbsp; &nbsp; [其他](#其他)  
  
 ## 简历 
-[湘潭大学](https://math.xtu.edu.cn/) &nbsp; [数学与计算科学学院](https://math.xtu.edu.cn/) &nbsp; 副教授 &nbsp; sunll AT xtu.edu.cn
+[湘潭大学](https://math.xtu.edu.cn/) &nbsp; [数学与计算科学学院](https://math.xtu.edu.cn/) &nbsp; [副教授](https://math.xtu.edu.cn/info/1010/4742.htm) &nbsp; sunll AT xtu.edu.cn
 
 ### 研究方向
 微分几何与几何分析 
