@@ -46,7 +46,7 @@ title: 论文
 - <em>On the volume of locally conformally flat 4-dimensional closed hypersurface</em> (合作者：<strong>崔庆</strong>), &nbsp; [Proc. Amer. Math. Soc.](https://doi.org/10.1090/proc/13855)
 
 ### 2016
-- <em>A note on the nonexistence of quasi-harmonic spheres</em> (合作者：<strong>李嘉禹</strong>), &nbsp; [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-016-1076-6)
+- <em>A note on the nonexistence of quasi-harmonic spheres</em> (合作者：<strong>李嘉禹</strong>), &nbsp; [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-016-1076-6)  &nbsp; [pdf](papers/LS16.pdf)
 
 ### 2015
 - <em>Dirac-geodesics and their heat flows</em> (合作者：<strong>陈群</strong>、 <strong>Jürgen Jost</strong>、<strong>朱苗苗</strong>), &nbsp; [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-015-0877-3)  &nbsp; [pdf](papers/Calc. Var. Partial Differential Equations 54 (2015), no. 3, 2615–2635.pdf)
