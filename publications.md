@@ -56,6 +56,7 @@ title: 论文
   
 ## 预印本 
 ### 2025
+- <em>Critical mean field equations for equilibrium turbulence with sign-changing prescribed functions</em> (合作者：<strong>朱晓宝</strong>), &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2505.16414)
 - <em>Existence theory for elliptic equations of general exponential nonlinearity on finite graphs</em> (合作者：<strong>华波波</strong>、<strong>王家暄</strong>), &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2505.14799)
 - <em>Critical quasilinear equations on Riemannian manifolds</em> (合作者：<strong>王友德</strong>), &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2502.08495)
 
