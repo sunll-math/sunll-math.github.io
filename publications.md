@@ -8,6 +8,7 @@ title: 论文
 
 ## 已发表 
 ### 2025
+- <em>Existence results for Toda systems with sign-changing prescribed functions: Part I</em> (合作者：<strong>朱晓宝</strong>), &nbsp; [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-025-03109-z)  &nbsp; [pdf](papers/SZ25.pdf)
 - <em>Dirac-harmonic maps with the trivial index</em> (合作者：<strong>Jürgen Jost</strong>、<strong>朱静勇</strong>), &nbsp; [Sci. China Math.](https://doi.org/10.1007/s11425-023-2283-0)  &nbsp; [pdf](papers/JSZ25.pdf)
 
 ### 2024
@@ -62,7 +63,6 @@ title: 论文
 
 ### 2024
 - <em>Existence results for Toda systems with sign-changing prescribed functions: Part II</em> (合作者：<strong>朱晓宝</strong>), &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2412.07537)
-- <em>Existence results for Toda systems with sign-changing prescribed functions: Part I</em> (合作者：<strong>朱晓宝</strong>), &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2412.05578)
 - <em>Optimal Liouville theorems for the Lane-Emden equation on Riemannian manifolds</em> (合作者：<strong>贺杰</strong>、<strong>王友德</strong>), &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2411.06956)
 - <em>Sinh-Gordon equations on finite graphs</em>, &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2406.17166)
 
@@ -79,4 +79,5 @@ title: 论文
 [返回首页](index.md)
 
 ---
+
 
