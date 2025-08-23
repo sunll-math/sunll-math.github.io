@@ -29,7 +29,7 @@ layout: default
 - <em>Brouwer degree for Kazdan-Warner equations on a connected finite graph</em> (合作者：<strong>王六权</strong>) &nbsp; [*Adv. Math.*, 2022](https://doi.org/10.1016/j.aim.2022.108422)  &nbsp; [pdf](papers/SW22.pdf)
 - <em>Rigidity theorems for minimal Lagrangian surfaces with Legendrian capillary boundary</em> (合作者：<strong>罗勇</strong>) &nbsp; [*Adv. Math.*, 2021](https://doi.org/10.1016/j.aim.2021.108124)  &nbsp;  [pdf](papers/LS21.pdf)
 - <em>Rigidity of closed CSL submanifolds in the unit sphere</em> (合作者：<strong>罗勇</strong>) &nbsp; [*Ann. Inst. H. Poincaré C Anal. Non Linéaire*, 2023](https://doi.org/10.4171/aihpc/50)  &nbsp;  [pdf](papers/LS23.pdf)
-- <em>Sinh-Gordon equations on finite graphs</em>  &nbsp; [*Sinh-Gordon equations on finite graphs*, 2025](https://doi.org/10.1007/s00526-025-03110-6)  &nbsp;  [pdf](papers/S25.pdf) 
+- <em>Sinh-Gordon equations on finite graphs</em>  &nbsp; [*Calc. Var. Partial Differential Equations*, 2025](https://doi.org/10.1007/s00526-025-03110-6)  &nbsp;  [pdf](papers/S25.pdf)  
 
 [查看更多论文](publications.md) 
 
@@ -58,6 +58,7 @@ layout: default
 [返回首页](index.md)
 
 ---
+
 
 
 
