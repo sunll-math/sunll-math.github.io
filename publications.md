@@ -8,6 +8,7 @@ title: 论文
 
 ## 已发表 
 ### 2025
+- <em>Existence Results for Toda Systems With Sign-Changing Prescribed Functions: Part II</em> &nbsp; [J Geom Anal](https://doi.org/10.1007/s12220-025-02189-9) &nbsp; [pdf](papers/SZ25a.pdf)
 - <em>Sinh-Gordon equations on finite graphs</em> &nbsp; [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-025-03110-6)  &nbsp; [pdf](papers/S25.pdf)
 - <em>Existence results for Toda systems with sign-changing prescribed functions: Part I</em> (合作者：<strong>朱晓宝</strong>) &nbsp; [Calc. Var. Partial Differential Equations](https://doi.org/10.1007/s00526-025-03109-z)  &nbsp; [pdf](papers/SZ25.pdf)
 - <em>Dirac-harmonic maps with the trivial index</em> (合作者：<strong>Jürgen Jost</strong>、<strong>朱静勇</strong>) &nbsp; [Sci. China Math.](https://doi.org/10.1007/s11425-023-2283-0)  &nbsp; [pdf](papers/JSZ25.pdf)
@@ -79,6 +80,7 @@ title: 论文
 [返回首页](index.md)
 
 ---
+
 
 
 
