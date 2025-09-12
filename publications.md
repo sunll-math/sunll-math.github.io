@@ -64,7 +64,6 @@ title: 论文
 - <em>Critical quasilinear equations on Riemannian manifolds</em> (合作者：<strong>王友德</strong>) &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2502.08495)
 
 ### 2024
-- <em>Existence results for Toda systems with sign-changing prescribed functions: Part II</em> (合作者：<strong>朱晓宝</strong>) &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2412.07537)
 - <em>Optimal Liouville theorems for the Lane-Emden equation on Riemannian manifolds</em> (合作者：<strong>贺杰</strong>、<strong>王友德</strong>) &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2411.06956)
 
 ### 2021
@@ -80,6 +79,7 @@ title: 论文
 [返回首页](index.md)
 
 ---
+
 
 
 
