@@ -6,7 +6,7 @@ layout: default
 [简历](#简历) &nbsp; &nbsp; &nbsp; [论文](#论文) &nbsp; &nbsp; &nbsp; [项目](#项目) &nbsp; &nbsp; &nbsp; [其他](#其他)  
  
 ## 简历 
-[湘潭大学](https://www.xtu.edu.cn) &nbsp; [数学与计算科学学院](https://math.xtu.edu.cn) &nbsp; [校聘教授](https://math.xtu.edu.cn/info/1010/4742.htm) &nbsp; 博导 &nbsp; sunll AT xtu.edu.cn
+[湘潭大学](https://www.xtu.edu.cn) &nbsp; [数学与计算科学学院](https://math.xtu.edu.cn) &nbsp; [教授](https://math.xtu.edu.cn/info/1010/4742.htm) &nbsp; 博导 &nbsp; sunll AT xtu.edu.cn
 
 ### 研究方向
 微分几何与几何分析 
@@ -17,7 +17,8 @@ layout: default
 - **2004-09 至 2008-06**, 武汉大学, 基础数学, 学士
 
 ### 工作经历
-- **2024-12 至 今**, 湘潭大学, 数学与计算科学学院, 副教授
+- **2025-11 至 今**, 湘潭大学, 数学与计算科学学院, 副教授
+- **2024-12 至 2025-10**, 湘潭大学, 数学与计算科学学院, 副教授
 - **2023-07 至 2024-11**, 广西师范大学, 数学与统计学院, 副教授
 - **2021-08 至 2023-06**, 武汉大学, 数学与统计学院, 副教授
 - **2017-06 至 2021-07**, 武汉大学, 数学与统计学院, 讲师
@@ -59,6 +60,7 @@ layout: default
 [返回首页](index.md)
 
 ---
+
 
 
 
