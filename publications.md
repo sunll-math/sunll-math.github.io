@@ -58,6 +58,9 @@ title: 论文
 - <em>Gradient estimates and Liouville theorems for Dirac-harmonic maps</em> (合作者：<strong>陈群</strong>、<strong>Jürgen Jost</strong>) &nbsp; [J. Geom. Phys.](http://dx.doi.org/10.1016/j.geomphys.2013.10.011) &nbsp; [pdf](papers/CJS14.pdf)
   
 ## 预印本 
+### 2026
+- <em>A flow approach to the Toda system</em> (合作者：<strong>罗勇</strong>、<strong>王国芳</strong>) &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2602.20707)
+
 ### 2025
 - <em>Critical mean field equations for equilibrium turbulence with sign-changing prescribed functions</em> (合作者：<strong>朱晓宝</strong>) &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2505.16414)
 - <em>Existence theory for elliptic equations of general exponential nonlinearity on finite graphs</em> (合作者：<strong>华波波</strong>、<strong>王家暄</strong>) &nbsp; [arXiv](https://doi.org/10.48550/arXiv.2505.14799)
@@ -79,6 +82,7 @@ title: 论文
 [返回首页](index.md)
 
 ---
+
 
 
 
